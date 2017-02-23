@@ -27,12 +27,14 @@ BOOL __fastcall DROPFILTER_Main(D2UnitStrc* pItem)
 
 	if (dwCode == 'jew ')
 		return TRUE; // Jewels
-	else if (dwCode == 'tsc ' || dwCode == 'isc ' || dwCode == 'key ')
-		return FALSE; // TP scrolls, ID scrolls, keys
+	else if (dwCode == 'tsc ' || dwCode == 'isc ' || dwCode == 'key ' || dwCode == 'tbk ' || dwCode == 'ibk ')
+		return FALSE; // TP scrolls, ID scrolls, keys, TP tomes, ID tomes
 	else if (dwCode == 'gld ' && pItem->pStatsEx != NULL && pItem->pStatsEx->BaseStats.pStat != NULL && pItem->pStatsEx->BaseStats.pStat->dwStatValue < 5000)
 		return FALSE; // Gold stacks below 5,000
 	else if (dwQuality == 4 && (dwCode == 'rin ' || dwCode == 'amu '))
 		return FALSE; // Magic rings and amulets
+	else if (dwQuality < 4 && (dwCode == 'aqv ' || dwCode == 'cqv '))
+		return FALSE; // White quivers
 
 	int j = sizeof(excludes) / sizeof(excludes[0]);
 	for (int i = 0; i < j; ++i)
