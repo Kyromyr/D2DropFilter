@@ -76,6 +76,12 @@
 [2@9 ] <Bonebreaker (4)>
 [3@9 ] <Bonebreaker (5)>
 [4@9 ] <Bonebreaker (6)>
+[!15 ] <Bonesplitter (1)>
+[!16 ] <Bonesplitter (2)>
+[!17 ] <Bonesplitter (3)>
+[!18 ] <Bonesplitter (4)>
+[!19 ] <Bonesplitter (5)>
+[!20 ] <Bonesplitter (6)>
 [139 ] <Brandistock (1)>
 [207 ] <Brandistock (2)>
 [275 ] <Brandistock (3)>
@@ -208,6 +214,12 @@
 [315 ] <Flamberge (4)>
 [383 ] <Flamberge (5)>
 [451 ] <Flamberge (6)>
+[!56 ] <Flamen Staff (1)>
+[!57 ] <Flamen Staff (2)>
+[!58 ] <Flamen Staff (3)>
+[!59 ] <Flamen Staff (4)>
+[!60 ] <Flamen Staff (5)>
+[!61 ] <Flamen Staff (6)>
 [147 ] <Flying Knife (1)>
 [215 ] <Flying Knife (2)>
 [283 ] <Flying Knife (3)>
@@ -280,6 +292,12 @@
 [363 ] <Halberd (4)>
 [431 ] <Halberd (5)>
 [499 ] <Halberd (6)>
+[19@ ] <Hammerhead Axe (1)>
+[!29 ] <Hammerhead Axe (2)>
+[!30 ] <Hammerhead Axe (3)>
+[!31 ] <Hammerhead Axe (4)>
+[!32 ] <Hammerhead Axe (5)>
+[!33 ] <Hammerhead Axe (6)>
 [114 ] <Hand Axe (1)>
 [182 ] <Hand Axe (2)>
 [250 ] <Hand Axe (3)>
@@ -304,6 +322,18 @@
 [l66 ] <Heavy Crossbow (4)>
 [l70 ] <Heavy Crossbow (5)>
 [l74 ] <Heavy Crossbow (6)>
+[!70 ] <Hexblade (1)>
+[!71 ] <Hexblade (2)>
+[!72 ] <Hexblade (3)>
+[!73 ] <Hexblade (4)>
+[!74 ] <Hexblade (5)>
+[!75 ] <Hexblade (6)>
+[!84 ] <Holy Lance (1)>
+[!85 ] <Holy Lance (2)>
+[!86 ] <Holy Lance (3)>
+[!87 ] <Holy Lance (4)>
+[!88 ] <Holy Lance (5)>
+[!89 ] <Holy Lance (6)>
 [161 ] <Hunter's Bow (1)>
 [229 ] <Hunter's Bow (2)>
 [297 ] <Hunter's Bow (3)>
@@ -340,6 +370,12 @@
 [348 ] <Kriss (4)>
 [416 ] <Kriss (5)>
 [484 ] <Kriss (6)>
+[!49 ] <Labrys (1)>
+[!50 ] <Labrys (2)>
+[!51 ] <Labrys (3)>
+[!52 ] <Labrys (4)>
+[!53 ] <Labrys (5)>
+[!54 ] <Labrys (6)>
 [119 ] <Large Axe (1)>
 [187 ] <Large Axe (2)>
 [255 ] <Large Axe (3)>
@@ -406,12 +442,24 @@
 [j68 ] <Maiden Spear (4)>
 [j85 ] <Maiden Spear (5)>
 [o12 ] <Maiden Spear (6)>
+[!22 ] <Mammen Axe (1)>
+[!23 ] <Mammen Axe (2)>
+[!24 ] <Mammen Axe (3)>
+[!25 ] <Mammen Axe (4)>
+[!26 ] <Mammen Axe (5)>
+[!27 ] <Mammen Axe (6)>
 [6@2 ] <Maple Bow (1)>
 [7@2 ] <Maple Bow (2)>
 [8@2 ] <Maple Bow (3)>
 [9@2 ] <Maple Bow (4)>
 [1@3 ] <Maple Bow (5)>
 [2@3 ] <Maple Bow (6)>
+[!63 ] <Marrow Staff (1)>
+[!64 ] <Marrow Staff (2)>
+[!65 ] <Marrow Staff (3)>
+[!66 ] <Marrow Staff (4)>
+[!67 ] <Marrow Staff (5)>
+[!68 ] <Marrow Staff (6)>
 [l35 ] <Maul (1)>
 [l38 ] <Maul (2)>
 [l41 ] <Maul (3)>
@@ -430,12 +478,24 @@
 [331 ] <Morning Star (4)>
 [399 ] <Morning Star (5)>
 [467 ] <Morning Star (6)>
+[!01 ] <Naginata (1)>
+[!02 ] <Naginata (2)>
+[!03 ] <Naginata (3)>
+[!04 ] <Naginata (4)>
+[!05 ] <Naginata (5)>
+[!06 ] <Naginata (6)>
 [7@C ] <Needle Crossbow (1)>
 [8@C ] <Needle Crossbow (2)>
 [9@C ] <Needle Crossbow (3)>
 [1@D ] <Needle Crossbow (4)>
 [2@D ] <Needle Crossbow (5)>
 [3@D ] <Needle Crossbow (6)>
+[!35 ] <Ono (1)>
+[!36 ] <Ono (2)>
+[!37 ] <Ono (3)>
+[!38 ] <Ono (4)>
+[!39 ] <Ono (5)>
+[!40 ] <Ono (6)>
 [141 ] <Pike (1)>
 [209 ] <Pike (2)>
 [277 ] <Pike (3)>
@@ -448,12 +508,12 @@
 [337 ] <Pilum (4)>
 [405 ] <Pilum (5)>
 [473 ] <Pilum (6)>
-[158 ] <Scythe (1)>
-[226 ] <Scythe (2)>
-[294 ] <Scythe (3)>
-[362 ] <Scythe (4)>
-[430 ] <Scythe (5)>
-[498 ] <Scythe (6)>
+[!08 ] <Raptor Scythe (1)>
+[!09 ] <Raptor Scythe (2)>
+[!10 ] <Raptor Scythe (3)>
+[!11 ] <Raptor Scythe (4)>
+[!12 ] <Raptor Scythe (5)>
+[!13 ] <Raptor Scythe (6)>
 [2@4 ] <Recurve Bow (1)>
 [3@4 ] <Recurve Bow (2)>
 [4@4 ] <Recurve Bow (3)>
@@ -502,6 +562,12 @@
 [j77 ] <Scissors Katar (4)>
 [j94 ] <Scissors Katar (5)>
 [o21 ] <Scissors Katar (6)>
+[158 ] <Scythe (1)>
+[226 ] <Scythe (2)>
+[294 ] <Scythe (3)>
+[362 ] <Scythe (4)>
+[430 ] <Scythe (5)>
+[498 ] <Scythe (6)>
 [8@1 ] <Serpent Bow (1)>
 [9@1 ] <Serpent Bow (2)>
 [1@2 ] <Serpent Bow (3)>
@@ -574,6 +640,12 @@
 [329 ] <Spiked Club (4)>
 [397 ] <Spiked Club (5)>
 [465 ] <Spiked Club (6)>
+[!77 ] <Spirit Edge (1)>
+[!78 ] <Spirit Edge (2)>
+[!79 ] <Spirit Edge (3)>
+[!80 ] <Spirit Edge (4)>
+[!81 ] <Spirit Edge (5)>
+[!82 ] <Spirit Edge (6)>
 [j15 ] <Stag Bow (1)>
 [j32 ] <Stag Bow (2)>
 [j49 ] <Stag Bow (3)>
@@ -586,6 +658,12 @@
 [6@E ] <Stinger Crossbow (4)>
 [7@E ] <Stinger Crossbow (5)>
 [8@E ] <Stinger Crossbow (6)>
+[!91 ] <Tepoztopilli (1)>
+[!92 ] <Tepoztopilli (2)>
+[!93 ] <Tepoztopilli (3)>
+[!94 ] <Tepoztopilli (4)>
+[!95 ] <Tepoztopilli (5)>
+[!96 ] <Tepoztopilli (6)>
 [149 ] <Throwing Axe (1)>
 [217 ] <Throwing Axe (2)>
 [285 ] <Throwing Axe (3)>
@@ -622,6 +700,12 @@
 [311 ] <Two-Handed Sword (4)>
 [379 ] <Two-Handed Sword (5)>
 [447 ] <Two-Handed Sword (6)>
+[!42 ] <Valaska (1)>
+[!43 ] <Valaska (2)>
+[!44 ] <Valaska (3)>
+[!45 ] <Valaska (4)>
+[!46 ] <Valaska (5)>
+[!47 ] <Valaska (6)>
 [4@3 ] <Viper Bow (1)>
 [5@3 ] <Viper Bow (2)>
 [6@3 ] <Viper Bow (3)>
@@ -670,6 +754,12 @@
 [310 ] <War Sword (4)>
 [378 ] <War Sword (5)>
 [446 ] <War Sword (6)>
+[!98 ] <Warp Blade (1)>
+[!99 ] <Warp Blade (2)>
+[!1! ] <Warp Blade (3)>
+[!2! ] <Warp Blade (4)>
+[!3! ] <Warp Blade (5)>
+[!4! ] <Warp Blade (6)>
 [j21 ] <Wrist Blade (1)>
 [j38 ] <Wrist Blade (2)>
 [j55 ] <Wrist Blade (3)>
@@ -682,96 +772,6 @@
 [l23 ] <Yew Wand (4)>
 [l27 ] <Yew Wand (5)>
 [l31 ] <Yew Wand (6)>
-[!01 ] <Naginata (1)>
-[!02 ] <Naginata (2)>
-[!03 ] <Naginata (3)>
-[!04 ] <Naginata (4)>
-[!05 ] <Naginata (5)>
-[!06 ] <Naginata (6)>
-[!08 ] <Raptor Scythe (1)>
-[!09 ] <Raptor Scythe (2)>
-[!10 ] <Raptor Scythe (3)>
-[!11 ] <Raptor Scythe (4)>
-[!12 ] <Raptor Scythe (5)>
-[!13 ] <Raptor Scythe (6)>
-[!15 ] <Bonesplitter (1)>
-[!16 ] <Bonesplitter (2)>
-[!17 ] <Bonesplitter (3)>
-[!18 ] <Bonesplitter (4)>
-[!19 ] <Bonesplitter (5)>
-[!20 ] <Bonesplitter (6)>
-[!22 ] <Mammen Axe (1)>
-[!23 ] <Mammen Axe (2)>
-[!24 ] <Mammen Axe (3)>
-[!25 ] <Mammen Axe (4)>
-[!26 ] <Mammen Axe (5)>
-[!27 ] <Mammen Axe (6)>
-[19@ ] <Hammerhead Axe (1)>
-[!29 ] <Hammerhead Axe (2)>
-[!30 ] <Hammerhead Axe (3)>
-[!31 ] <Hammerhead Axe (4)>
-[!32 ] <Hammerhead Axe (5)>
-[!33 ] <Hammerhead Axe (6)>
-[!35 ] <Ono (1)>
-[!36 ] <Ono (2)>
-[!37 ] <Ono (3)>
-[!38 ] <Ono (4)>
-[!39 ] <Ono (5)>
-[!40 ] <Ono (6)>
-[!42 ] <Valaska (1)>
-[!43 ] <Valaska (2)>
-[!44 ] <Valaska (3)>
-[!45 ] <Valaska (4)>
-[!46 ] <Valaska (5)>
-[!47 ] <Valaska (6)>
-[!49 ] <Labrys (1)>
-[!50 ] <Labrys (2)>
-[!51 ] <Labrys (3)>
-[!52 ] <Labrys (4)>
-[!53 ] <Labrys (5)>
-[!54 ] <Labrys (6)>
-[!56 ] <Flamen Staff (1)>
-[!57 ] <Flamen Staff (2)>
-[!58 ] <Flamen Staff (3)>
-[!59 ] <Flamen Staff (4)>
-[!60 ] <Flamen Staff (5)>
-[!61 ] <Flamen Staff (6)>
-[!63 ] <Marrow Staff (1)>
-[!64 ] <Marrow Staff (2)>
-[!65 ] <Marrow Staff (3)>
-[!66 ] <Marrow Staff (4)>
-[!67 ] <Marrow Staff (5)>
-[!68 ] <Marrow Staff (6)>
-[!70 ] <Hexblade (1)>
-[!71 ] <Hexblade (2)>
-[!72 ] <Hexblade (3)>
-[!73 ] <Hexblade (4)>
-[!74 ] <Hexblade (5)>
-[!75 ] <Hexblade (6)>
-[!77 ] <Spirit Edge (1)>
-[!78 ] <Spirit Edge (2)>
-[!79 ] <Spirit Edge (3)>
-[!80 ] <Spirit Edge (4)>
-[!81 ] <Spirit Edge (5)>
-[!82 ] <Spirit Edge (6)>
-[!84 ] <Holy Lance (1)>
-[!85 ] <Holy Lance (2)>
-[!86 ] <Holy Lance (3)>
-[!87 ] <Holy Lance (4)>
-[!88 ] <Holy Lance (5)>
-[!89 ] <Holy Lance (6)>
-[!91 ] <Tepoztopilli (1)>
-[!92 ] <Tepoztopilli (2)>
-[!93 ] <Tepoztopilli (3)>
-[!94 ] <Tepoztopilli (4)>
-[!95 ] <Tepoztopilli (5)>
-[!96 ] <Tepoztopilli (6)>
-[!98 ] <Warp Blade (1)>
-[!99 ] <Warp Blade (2)>
-[!1! ] <Warp Blade (3)>
-[!2! ] <Warp Blade (4)>
-[!3! ] <Warp Blade (5)>
-[!4! ] <Warp Blade (6)>
 [w23 ] <Aerin Shield (1)>
 [w43 ] <Aerin Shield (2)>
 [w63 ] <Aerin Shield (3)>
@@ -1369,146 +1369,6 @@
 [yo1 ] <Chipped Rainbow Stone>
 [yo2 ] <Flawed Rainbow Stone>
 [yo3 ] <Rainbow Stone>
-[&01 ] <Mystic Orb>
-[&02 ] <Mystic Orb>
-[&03 ] <Mystic Orb>
-[&04 ] <Mystic Orb>
-[&45 ] <Mystic Orb>
-[&11 ] <Mystic Orb>
-[&17 ] <Mystic Orb>
-[&18 ] <Mystic Orb>
-[&19 ] <Mystic Orb>
-[&20 ] <Mystic Orb>
-[&05 ] <Mystic Orb>
-[&06 ] <Mystic Orb>
-[&07 ] <Mystic Orb>
-[&08 ] <Mystic Orb>
-[&09 ] <Mystic Orb>
-[&10 ] <Mystic Orb>
-[&12 ] <Mystic Orb>
-[&13 ] <Mystic Orb>
-[&14 ] <Mystic Orb>
-[&15 ] <Mystic Orb>
-[&16 ] <Mystic Orb>
-[&41 ] <Mystic Orb>
-[&42 ] <Mystic Orb>
-[&43 ] <Mystic Orb>
-[&44 ] <Mystic Orb>
-[&21 ] <Mystic Orb>
-[&22 ] <Mystic Orb>
-[&23 ] <Mystic Orb>
-[&24 ] <Mystic Orb>
-[&25 ] <Mystic Orb>
-[&26 ] <Mystic Orb>
-[&27 ] <Mystic Orb>
-[&28 ] <Mystic Orb>
-[&29 ] <Mystic Orb>
-[&30 ] <Mystic Orb>
-[&46 ] <Mystic Orb>
-[&47 ] <Mystic Orb>
-[&48 ] <Mystic Orb>
-[&49 ] <Mystic Orb>
-[&50 ] <Mystic Orb>
-[&51 ] <Mystic Orb>
-[&52 ] <Mystic Orb>
-[&53 ] <Mystic Orb>
-[&54 ] <Mystic Orb>
-[&55 ] <Mystic Orb>
-[&31 ] <Mystic Orb>
-[&32 ] <Mystic Orb>
-[&33 ] <Mystic Orb>
-[&34 ] <Mystic Orb>
-[&35 ] <Mystic Orb>
-[&36 ] <Mystic Orb>
-[&37 ] <Mystic Orb>
-[&38 ] <Mystic Orb>
-[&39 ] <Mystic Orb>
-[&40 ] <Mystic Orb>
-[&56 ] <Mystic Orb>
-[&57 ] <Mystic Orb>
-[&58 ] <Mystic Orb>
-[&59 ] <Mystic Orb>
-[&60 ] <Mystic Orb>
-[&61 ] <Mystic Orb>
-[&62 ] <Mystic Orb>
-[&63 ] <Mystic Orb>
-[&64 ] <Mystic Orb>
-[&65 ] <Mystic Orb>
-[01+ ] <Mystic Orb>
-[02+ ] <Mystic Orb>
-[03+ ] <Mystic Orb>
-[04+ ] <Mystic Orb>
-[45+ ] <Mystic Orb>
-[11+ ] <Mystic Orb>
-[17+ ] <Mystic Orb>
-[18+ ] <Mystic Orb>
-[19+ ] <Mystic Orb>
-[20+ ] <Mystic Orb>
-[05+ ] <Mystic Orb>
-[06+ ] <Mystic Orb>
-[07+ ] <Mystic Orb>
-[08+ ] <Mystic Orb>
-[09+ ] <Mystic Orb>
-[10+ ] <Mystic Orb>
-[12+ ] <Mystic Orb>
-[13+ ] <Mystic Orb>
-[14+ ] <Mystic Orb>
-[15+ ] <Mystic Orb>
-[16+ ] <Mystic Orb>
-[41+ ] <Mystic Orb>
-[42+ ] <Mystic Orb>
-[43+ ] <Mystic Orb>
-[44+ ] <Mystic Orb>
-[21+ ] <Mystic Orb>
-[22+ ] <Mystic Orb>
-[23+ ] <Mystic Orb>
-[24+ ] <Mystic Orb>
-[25+ ] <Mystic Orb>
-[26+ ] <Mystic Orb>
-[27+ ] <Mystic Orb>
-[28+ ] <Mystic Orb>
-[29+ ] <Mystic Orb>
-[30+ ] <Mystic Orb>
-[46+ ] <Mystic Orb>
-[47+ ] <Mystic Orb>
-[48+ ] <Mystic Orb>
-[49+ ] <Mystic Orb>
-[50+ ] <Mystic Orb>
-[51+ ] <Mystic Orb>
-[52+ ] <Mystic Orb>
-[53+ ] <Mystic Orb>
-[54+ ] <Mystic Orb>
-[55+ ] <Mystic Orb>
-[31+ ] <Mystic Orb>
-[32+ ] <Mystic Orb>
-[33+ ] <Mystic Orb>
-[34+ ] <Mystic Orb>
-[35+ ] <Mystic Orb>
-[36+ ] <Mystic Orb>
-[37+ ] <Mystic Orb>
-[38+ ] <Mystic Orb>
-[39+ ] <Mystic Orb>
-[40+ ] <Mystic Orb>
-[56+ ] <Mystic Orb>
-[57+ ] <Mystic Orb>
-[58+ ] <Mystic Orb>
-[59+ ] <Mystic Orb>
-[60+ ] <Mystic Orb>
-[61+ ] <Mystic Orb>
-[62+ ] <Mystic Orb>
-[63+ ] <Mystic Orb>
-[64+ ] <Mystic Orb>
-[65+ ] <Mystic Orb>
-[z1+ ] <Mystic Orb>
-[z2+ ] <Mystic Orb>
-[z3+ ] <Mystic Orb>
-[z4+ ] <Mystic Orb>
-[z5+ ] <Mystic Orb>
-[&a1 ] <Mystic Orb>
-[&a2 ] <Mystic Orb>
-[&a3 ] <Mystic Orb>
-[&a4 ] <Mystic Orb>
-[&a5 ] <Mystic Orb>
 [g$a ] <Chipped Onyx>
 [g$b ] <Flawed Onyx>
 [g$c ] <Onyx>

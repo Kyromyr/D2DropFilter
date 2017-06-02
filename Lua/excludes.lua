@@ -1,9 +1,9 @@
-local f = io.open("codes.txt", "rb");
+local f = io.open("items.txt", "rb");
 
 local gemTypes = {Amethyst=1, Topaz=1, Sapphire=1, Emerald=1, Ruby=1, Diamond=1, Skull=1, Onyx=1, Bloodstone=1, Turquoise=1, Amber=1, ["Rainbow Stone"]=1};
 local gemGrades = {Chipped=1,Flawed=2,[""]=3,Flawless=4,Perfect=5};
 
-local code, hex, name, rune, gemGrade, gemType;
+local itemType, code, hex, name, rune, gemGrade, gemType;
 
 local readable = {};
 local output = {};
@@ -21,7 +21,7 @@ for line in f:lines() do
 		end
 		gemGrade = gemGrades[gemGrade];
 		
-		if (name:match"%(%d%)$" -- Non-sacred equipment
+		if ((itemType ~= "misc" and name:match"%(%d%)$") -- Non-sacred equipment
 			or (rune and rune < 18) -- Runes below Ko
 			or (gemTypes[gemType] and gemGrade and gemGrade < 4) -- Gems below Flawless
 			or name == "Mystic Orb" -- Worse than trash
@@ -30,6 +30,9 @@ for line in f:lines() do
 			table.insert(readable, line);
 			table.insert(output, hex);
 		end
+	else
+		code = line:match"{(%w+)}";
+		itemType = code or itemType;
 	end
 end
 f:close();
@@ -42,6 +45,6 @@ f:close();
 
 f = io.open("output.txt", "w+b");
 f:setvbuf"no";
-f:write(table.concat(output, ","));
+f:write("DWORD excludes[] = { ", table.concat(output, ","), " };");
 f:flush();
 f:close();

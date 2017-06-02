@@ -1,3 +1,4 @@
+{weapons}
 [gps ] <Rancid Gas Potion>
 [ops ] <Oil Potion>
 [gpm ] <Choking Gas Potion>
@@ -107,6 +108,13 @@
 [3@9 ] <Bonebreaker (5)>
 [4@9 ] <Bonebreaker (6)>
 [5@9 ] <Bonebreaker (Sacred)>
+[!15 ] <Bonesplitter (1)>
+[!16 ] <Bonesplitter (2)>
+[!17 ] <Bonesplitter (3)>
+[!18 ] <Bonesplitter (4)>
+[!19 ] <Bonesplitter (5)>
+[!20 ] <Bonesplitter (6)>
+[!21 ] <Bonesplitter (Sacred)>
 [139 ] <Brandistock (1)>
 [207 ] <Brandistock (2)>
 [275 ] <Brandistock (3)>
@@ -261,6 +269,13 @@
 [383 ] <Flamberge (5)>
 [451 ] <Flamberge (6)>
 [12@ ] <Flamberge (Sacred)>
+[!56 ] <Flamen Staff (1)>
+[!57 ] <Flamen Staff (2)>
+[!58 ] <Flamen Staff (3)>
+[!59 ] <Flamen Staff (4)>
+[!60 ] <Flamen Staff (5)>
+[!61 ] <Flamen Staff (6)>
+[!62 ] <Flamen Staff (Sacred)>
 [147 ] <Flying Knife (1)>
 [215 ] <Flying Knife (2)>
 [283 ] <Flying Knife (3)>
@@ -345,6 +360,13 @@
 [431 ] <Halberd (5)>
 [499 ] <Halberd (6)>
 [60@ ] <Halberd (Sacred)>
+[19@ ] <Hammerhead Axe (1)>
+[!29 ] <Hammerhead Axe (2)>
+[!30 ] <Hammerhead Axe (3)>
+[!31 ] <Hammerhead Axe (4)>
+[!32 ] <Hammerhead Axe (5)>
+[!33 ] <Hammerhead Axe (6)>
+[!34 ] <Hammerhead Axe (Sacred)>
 [114 ] <Hand Axe (1)>
 [182 ] <Hand Axe (2)>
 [250 ] <Hand Axe (3)>
@@ -373,6 +395,20 @@
 [l70 ] <Heavy Crossbow (5)>
 [l74 ] <Heavy Crossbow (6)>
 [78@ ] <Heavy Crossbow (Sacred)>
+[!70 ] <Hexblade (1)>
+[!71 ] <Hexblade (2)>
+[!72 ] <Hexblade (3)>
+[!73 ] <Hexblade (4)>
+[!74 ] <Hexblade (5)>
+[!75 ] <Hexblade (6)>
+[!76 ] <Hexblade (Sacred)>
+[!84 ] <Holy Lance (1)>
+[!85 ] <Holy Lance (2)>
+[!86 ] <Holy Lance (3)>
+[!87 ] <Holy Lance (4)>
+[!88 ] <Holy Lance (5)>
+[!89 ] <Holy Lance (6)>
+[!90 ] <Holy Lance (Sacred)>
 [161 ] <Hunter's Bow (1)>
 [229 ] <Hunter's Bow (2)>
 [297 ] <Hunter's Bow (3)>
@@ -415,6 +451,13 @@
 [416 ] <Kriss (5)>
 [484 ] <Kriss (6)>
 [45@ ] <Kriss (Sacred)>
+[!49 ] <Labrys (1)>
+[!50 ] <Labrys (2)>
+[!51 ] <Labrys (3)>
+[!52 ] <Labrys (4)>
+[!53 ] <Labrys (5)>
+[!54 ] <Labrys (6)>
+[!55 ] <Labrys (Sacred)>
 [119 ] <Large Axe (1)>
 [187 ] <Large Axe (2)>
 [255 ] <Large Axe (3)>
@@ -492,6 +535,13 @@
 [j85 ] <Maiden Spear (5)>
 [o12 ] <Maiden Spear (6)>
 [87@ ] <Maiden Spear (Sacred)>
+[!22 ] <Mammen Axe (1)>
+[!23 ] <Mammen Axe (2)>
+[!24 ] <Mammen Axe (3)>
+[!25 ] <Mammen Axe (4)>
+[!26 ] <Mammen Axe (5)>
+[!27 ] <Mammen Axe (6)>
+[!28 ] <Mammen Axe (Sacred)>
 [6@2 ] <Maple Bow (1)>
 [7@2 ] <Maple Bow (2)>
 [8@2 ] <Maple Bow (3)>
@@ -499,6 +549,13 @@
 [1@3 ] <Maple Bow (5)>
 [2@3 ] <Maple Bow (6)>
 [3@3 ] <Maple Bow (Sacred)>
+[!63 ] <Marrow Staff (1)>
+[!64 ] <Marrow Staff (2)>
+[!65 ] <Marrow Staff (3)>
+[!66 ] <Marrow Staff (4)>
+[!67 ] <Marrow Staff (5)>
+[!68 ] <Marrow Staff (6)>
+[!69 ] <Marrow Staff (Sacred)>
 [l35 ] <Maul (1)>
 [l38 ] <Maul (2)>
 [l41 ] <Maul (3)>
@@ -520,6 +577,13 @@
 [399 ] <Morning Star (5)>
 [467 ] <Morning Star (6)>
 [28@ ] <Morning Star (Sacred)>
+[!01 ] <Naginata (1)>
+[!02 ] <Naginata (2)>
+[!03 ] <Naginata (3)>
+[!04 ] <Naginata (4)>
+[!05 ] <Naginata (5)>
+[!06 ] <Naginata (6)>
+[!07 ] <Naginata (Sacred)>
 [7@C ] <Needle Crossbow (1)>
 [8@C ] <Needle Crossbow (2)>
 [9@C ] <Needle Crossbow (3)>
@@ -527,6 +591,13 @@
 [2@D ] <Needle Crossbow (5)>
 [3@D ] <Needle Crossbow (6)>
 [4@D ] <Needle Crossbow (Sacred)>
+[!35 ] <Ono (1)>
+[!36 ] <Ono (2)>
+[!37 ] <Ono (3)>
+[!38 ] <Ono (4)>
+[!39 ] <Ono (5)>
+[!40 ] <Ono (6)>
+[!41 ] <Ono (Sacred)>
 [141 ] <Pike (1)>
 [209 ] <Pike (2)>
 [277 ] <Pike (3)>
@@ -541,13 +612,13 @@
 [405 ] <Pilum (5)>
 [473 ] <Pilum (6)>
 [34@ ] <Pilum (Sacred)>
-[158 ] <Scythe (1)>
-[226 ] <Scythe (2)>
-[294 ] <Scythe (3)>
-[362 ] <Scythe (4)>
-[430 ] <Scythe (5)>
-[498 ] <Scythe (6)>
-[59@ ] <Scythe (Sacred)>
+[!08 ] <Raptor Scythe (1)>
+[!09 ] <Raptor Scythe (2)>
+[!10 ] <Raptor Scythe (3)>
+[!11 ] <Raptor Scythe (4)>
+[!12 ] <Raptor Scythe (5)>
+[!13 ] <Raptor Scythe (6)>
+[!14 ] <Raptor Scythe (Sacred)>
 [2@4 ] <Recurve Bow (1)>
 [3@4 ] <Recurve Bow (2)>
 [4@4 ] <Recurve Bow (3)>
@@ -604,6 +675,13 @@
 [j94 ] <Scissors Katar (5)>
 [o21 ] <Scissors Katar (6)>
 [96@ ] <Scissors Katar (Sacred)>
+[158 ] <Scythe (1)>
+[226 ] <Scythe (2)>
+[294 ] <Scythe (3)>
+[362 ] <Scythe (4)>
+[430 ] <Scythe (5)>
+[498 ] <Scythe (6)>
+[59@ ] <Scythe (Sacred)>
 [8@1 ] <Serpent Bow (1)>
 [9@1 ] <Serpent Bow (2)>
 [1@2 ] <Serpent Bow (3)>
@@ -688,6 +766,13 @@
 [397 ] <Spiked Club (5)>
 [465 ] <Spiked Club (6)>
 [26@ ] <Spiked Club (Sacred)>
+[!77 ] <Spirit Edge (1)>
+[!78 ] <Spirit Edge (2)>
+[!79 ] <Spirit Edge (3)>
+[!80 ] <Spirit Edge (4)>
+[!81 ] <Spirit Edge (5)>
+[!82 ] <Spirit Edge (6)>
+[!83 ] <Spirit Edge (Sacred)>
 [j15 ] <Stag Bow (1)>
 [j32 ] <Stag Bow (2)>
 [j49 ] <Stag Bow (3)>
@@ -702,6 +787,13 @@
 [7@E ] <Stinger Crossbow (5)>
 [8@E ] <Stinger Crossbow (6)>
 [9@E ] <Stinger Crossbow (Sacred)>
+[!91 ] <Tepoztopilli (1)>
+[!92 ] <Tepoztopilli (2)>
+[!93 ] <Tepoztopilli (3)>
+[!94 ] <Tepoztopilli (4)>
+[!95 ] <Tepoztopilli (5)>
+[!96 ] <Tepoztopilli (6)>
+[!97 ] <Tepoztopilli (Sacred)>
 [149 ] <Throwing Axe (1)>
 [217 ] <Throwing Axe (2)>
 [285 ] <Throwing Axe (3)>
@@ -744,6 +836,13 @@
 [379 ] <Two-Handed Sword (5)>
 [447 ] <Two-Handed Sword (6)>
 [08@ ] <Two-Handed Sword (Sacred)>
+[!42 ] <Valaska (1)>
+[!43 ] <Valaska (2)>
+[!44 ] <Valaska (3)>
+[!45 ] <Valaska (4)>
+[!46 ] <Valaska (5)>
+[!47 ] <Valaska (6)>
+[!48 ] <Valaska (Sacred)>
 [4@3 ] <Viper Bow (1)>
 [5@3 ] <Viper Bow (2)>
 [6@3 ] <Viper Bow (3)>
@@ -800,6 +899,13 @@
 [378 ] <War Sword (5)>
 [446 ] <War Sword (6)>
 [07@ ] <War Sword (Sacred)>
+[!98 ] <Warp Blade (1)>
+[!99 ] <Warp Blade (2)>
+[!1! ] <Warp Blade (3)>
+[!2! ] <Warp Blade (4)>
+[!3! ] <Warp Blade (5)>
+[!4! ] <Warp Blade (6)>
+[!5! ] <Warp Blade (Sacred)>
 [j21 ] <Wrist Blade (1)>
 [j38 ] <Wrist Blade (2)>
 [j55 ] <Wrist Blade (3)>
@@ -814,113 +920,9 @@
 [l27 ] <Yew Wand (5)>
 [l31 ] <Yew Wand (6)>
 [70@ ] <Yew Wand (Sacred)>
-[!01 ] <Naginata (1)>
-[!02 ] <Naginata (2)>
-[!03 ] <Naginata (3)>
-[!04 ] <Naginata (4)>
-[!05 ] <Naginata (5)>
-[!06 ] <Naginata (6)>
-[!07 ] <Naginata (Sacred)>
-[!08 ] <Raptor Scythe (1)>
-[!09 ] <Raptor Scythe (2)>
-[!10 ] <Raptor Scythe (3)>
-[!11 ] <Raptor Scythe (4)>
-[!12 ] <Raptor Scythe (5)>
-[!13 ] <Raptor Scythe (6)>
-[!14 ] <Raptor Scythe (Sacred)>
-[!15 ] <Bonesplitter (1)>
-[!16 ] <Bonesplitter (2)>
-[!17 ] <Bonesplitter (3)>
-[!18 ] <Bonesplitter (4)>
-[!19 ] <Bonesplitter (5)>
-[!20 ] <Bonesplitter (6)>
-[!21 ] <Bonesplitter (Sacred)>
-[!22 ] <Mammen Axe (1)>
-[!23 ] <Mammen Axe (2)>
-[!24 ] <Mammen Axe (3)>
-[!25 ] <Mammen Axe (4)>
-[!26 ] <Mammen Axe (5)>
-[!27 ] <Mammen Axe (6)>
-[!28 ] <Mammen Axe (Sacred)>
-[19@ ] <Hammerhead Axe (1)>
-[!29 ] <Hammerhead Axe (2)>
-[!30 ] <Hammerhead Axe (3)>
-[!31 ] <Hammerhead Axe (4)>
-[!32 ] <Hammerhead Axe (5)>
-[!33 ] <Hammerhead Axe (6)>
-[!34 ] <Hammerhead Axe (Sacred)>
-[!35 ] <Ono (1)>
-[!36 ] <Ono (2)>
-[!37 ] <Ono (3)>
-[!38 ] <Ono (4)>
-[!39 ] <Ono (5)>
-[!40 ] <Ono (6)>
-[!41 ] <Ono (Sacred)>
-[!42 ] <Valaska (1)>
-[!43 ] <Valaska (2)>
-[!44 ] <Valaska (3)>
-[!45 ] <Valaska (4)>
-[!46 ] <Valaska (5)>
-[!47 ] <Valaska (6)>
-[!48 ] <Valaska (Sacred)>
-[!49 ] <Labrys (1)>
-[!50 ] <Labrys (2)>
-[!51 ] <Labrys (3)>
-[!52 ] <Labrys (4)>
-[!53 ] <Labrys (5)>
-[!54 ] <Labrys (6)>
-[!55 ] <Labrys (Sacred)>
-[!56 ] <Flamen Staff (1)>
-[!57 ] <Flamen Staff (2)>
-[!58 ] <Flamen Staff (3)>
-[!59 ] <Flamen Staff (4)>
-[!60 ] <Flamen Staff (5)>
-[!61 ] <Flamen Staff (6)>
-[!62 ] <Flamen Staff (Sacred)>
-[!63 ] <Marrow Staff (1)>
-[!64 ] <Marrow Staff (2)>
-[!65 ] <Marrow Staff (3)>
-[!66 ] <Marrow Staff (4)>
-[!67 ] <Marrow Staff (5)>
-[!68 ] <Marrow Staff (6)>
-[!69 ] <Marrow Staff (Sacred)>
-[!70 ] <Hexblade (1)>
-[!71 ] <Hexblade (2)>
-[!72 ] <Hexblade (3)>
-[!73 ] <Hexblade (4)>
-[!74 ] <Hexblade (5)>
-[!75 ] <Hexblade (6)>
-[!76 ] <Hexblade (Sacred)>
-[!77 ] <Spirit Edge (1)>
-[!78 ] <Spirit Edge (2)>
-[!79 ] <Spirit Edge (3)>
-[!80 ] <Spirit Edge (4)>
-[!81 ] <Spirit Edge (5)>
-[!82 ] <Spirit Edge (6)>
-[!83 ] <Spirit Edge (Sacred)>
-[!84 ] <Holy Lance (1)>
-[!85 ] <Holy Lance (2)>
-[!86 ] <Holy Lance (3)>
-[!87 ] <Holy Lance (4)>
-[!88 ] <Holy Lance (5)>
-[!89 ] <Holy Lance (6)>
-[!90 ] <Holy Lance (Sacred)>
-[!91 ] <Tepoztopilli (1)>
-[!92 ] <Tepoztopilli (2)>
-[!93 ] <Tepoztopilli (3)>
-[!94 ] <Tepoztopilli (4)>
-[!95 ] <Tepoztopilli (5)>
-[!96 ] <Tepoztopilli (6)>
-[!97 ] <Tepoztopilli (Sacred)>
-[!98 ] <Warp Blade (1)>
-[!99 ] <Warp Blade (2)>
-[!1! ] <Warp Blade (3)>
-[!2! ] <Warp Blade (4)>
-[!3! ] <Warp Blade (5)>
-[!4! ] <Warp Blade (6)>
-[!5! ] <Warp Blade (Sacred)>
 [v#X ] <Sacred Bow>
 [Ysh3] <Mystical Blade>
+{armor}
 [crn ] <Crown>
 [fld ] <Field Plate>
 [hbt ] <Greaves>
@@ -1569,6 +1571,7 @@
 [Ysh7] <Mana Belt>
 [Ysh8] <Warkeepers>
 [Ysh9] <Winged Feet>
+{misc}
 [elx ] <Elixir>
 [hpo ] <FLYING POLAR BUFFALO ERROR>
 [mpo ] <FLYING POLAR BUFFALO ERROR>
@@ -1819,7 +1822,7 @@
 [amd ] <Amulet>
 [ame ] <Amulet>
 [amf ] <Amulet>
-[zen ] <Median XL: Ultimative XVI|Don't read me!>
+[zen ] <Median XL 2017|- Welcome ->
 [ey2 ] <Elixir of Experience>
 [ey3 ] <Elixir of Greed>
 [ey4 ] <Elixir of Wealth>
@@ -1842,7 +1845,7 @@
 [a60 ] <The Butcher's Tooth>
 [a61 ] <Sacred Worldstone Key>
 [a66 ] <Idol of Vanity>
-[a67 ] <Congratulations. You got it|Spirit of Damnation>
+[a67 ] <Congratulations. You got it!|Spirit of Damnation>
 [a68 ] <Horazon's Focus>
 [yq1 ] <Sunless Crystal Bird>
 [yq2 ] <Six Angel Bag>
@@ -1851,7 +1854,6 @@
 [yqx ] <Spirit Trance Herb>
 [yqe ] <By Richard Knaak|Moon of the Spider>
 [x0x ] <Eternal Bone Pile>
-[#X91] <Special Box>
 [x1x ] <Sunstone of Fire>
 [x2x ] <Sunstone of Ice>
 [x3x ] <Sunstone of Thunder>
@@ -1899,271 +1901,166 @@
 [qut ] <Cube Reagent (2/4)|Glowing Arcane Crystal>
 [qux ] <Cube Reagent (3/4)|Brilliant Arcane Crystal>
 [quy ] <Cube Reagent (4/4)|Dazzling Arcane Crystal>
-[A0+ ] <Creepy Shrine (10 Charges)>
-[A1+ ] <Creepy Shrine (9 Charges)>
-[A2+ ] <Creepy Shrine (8 Charges)>
-[A3+ ] <Creepy Shrine (7 Charges)>
-[A4+ ] <Creepy Shrine (6 Charges)>
-[A5+ ] <Creepy Shrine (5 Charges)>
-[A6+ ] <Creepy Shrine (4 Charges)>
-[A7+ ] <Creepy Shrine (3 Charges)>
-[A8+ ] <Creepy Shrine (2 Charges)>
-[A9+ ] <Creepy Shrine (1 Charge)>
-[B0+ ] <Abandoned Shrine (10 Charges)>
-[B1+ ] <Abandoned Shrine (9 Charges)>
-[B2+ ] <Abandoned Shrine (8 Charges)>
-[B3+ ] <Abandoned Shrine (7 Charges)>
-[B4+ ] <Abandoned Shrine (6 Charges)>
-[B5+ ] <Abandoned Shrine (5 Charges)>
-[B6+ ] <Abandoned Shrine (4 Charges)>
-[B7+ ] <Abandoned Shrine (3 Charges)>
-[B8+ ] <Abandoned Shrine (2 Charges)>
-[B9+ ] <Abandoned Shrine (1 Charge)>
-[C0+ ] <Quiet Shrine (10 Charges)>
-[C1+ ] <Quiet Shrine (9 Charges)>
-[C2+ ] <Quiet Shrine (8 Charges)>
-[C3+ ] <Quiet Shrine (7 Charges)>
-[C4+ ] <Quiet Shrine (6 Charges)>
-[C5+ ] <Quiet Shrine (5 Charges)>
-[C6+ ] <Quiet Shrine (4 Charges)>
-[C7+ ] <Quiet Shrine (3 Charges)>
-[C8+ ] <Quiet Shrine (2 Charges)>
-[C9+ ] <Quiet Shrine (1 Charge)>
-[D0+ ] <Eerie Shrine (10 Charges)>
-[D1+ ] <Eerie Shrine (9 Charges)>
-[D2+ ] <Eerie Shrine (8 Charges)>
-[D3+ ] <Eerie Shrine (7 Charges)>
-[D4+ ] <Eerie Shrine (6 Charges)>
-[D5+ ] <Eerie Shrine (5 Charges)>
-[D6+ ] <Eerie Shrine (4 Charges)>
-[D7+ ] <Eerie Shrine (3 Charges)>
-[D8+ ] <Eerie Shrine (2 Charges)>
-[D9+ ] <Eerie Shrine (1 Charge)>
-[E0+ ] <Weird Shrine (10 Charges)>
-[E1+ ] <Weird Shrine (9 Charges)>
-[E2+ ] <Weird Shrine (8 Charges)>
-[E3+ ] <Weird Shrine (7 Charges)>
-[E4+ ] <Weird Shrine (6 Charges)>
-[E5+ ] <Weird Shrine (5 Charges)>
-[E6+ ] <Weird Shrine (4 Charges)>
-[E7+ ] <Weird Shrine (3 Charges)>
-[E8+ ] <Weird Shrine (2 Charges)>
-[E9+ ] <Weird Shrine (1 Charge)>
-[F0+ ] <Gloomy Shrine (10 Charges)>
-[F1+ ] <Gloomy Shrine (9 Charges)>
-[F2+ ] <Gloomy Shrine (8 Charges)>
-[F3+ ] <Gloomy Shrine (7 Charges)>
-[F4+ ] <Gloomy Shrine (6 Charges)>
-[F5+ ] <Gloomy Shrine (5 Charges)>
-[F6+ ] <Gloomy Shrine (4 Charges)>
-[F7+ ] <Gloomy Shrine (3 Charges)>
-[F8+ ] <Gloomy Shrine (2 Charges)>
-[F9+ ] <Gloomy Shrine (1 Charge)>
-[G0+ ] <Tainted Shrine (10 Charges)>
-[G1+ ] <Tainted Shrine (9 Charges)>
-[G2+ ] <Tainted Shrine (8 Charges)>
-[G3+ ] <Tainted Shrine (7 Charges)>
-[G4+ ] <Tainted Shrine (6 Charges)>
-[G5+ ] <Tainted Shrine (5 Charges)>
-[G6+ ] <Tainted Shrine (4 Charges)>
-[G7+ ] <Tainted Shrine (3 Charges)>
-[G8+ ] <Tainted Shrine (2 Charges)>
-[G9+ ] <Tainted Shrine (1 Charge)>
-[H0+ ] <Fascinating Shrine (10 Charges)>
-[H1+ ] <Fascinating Shrine (9 Charges)>
-[H2+ ] <Fascinating Shrine (8 Charges)>
-[H3+ ] <Fascinating Shrine (7 Charges)>
-[H4+ ] <Fascinating Shrine (6 Charges)>
-[H5+ ] <Fascinating Shrine (5 Charges)>
-[H6+ ] <Fascinating Shrine (4 Charges)>
-[H7+ ] <Fascinating Shrine (3 Charges)>
-[H8+ ] <Fascinating Shrine (2 Charges)>
-[H9+ ] <Fascinating Shrine (1 Charge)>
-[I0+ ] <Ornate Shrine (10 Charges)>
-[I1+ ] <Ornate Shrine (9 Charges)>
-[I2+ ] <Ornate Shrine (8 Charges)>
-[I3+ ] <Ornate Shrine (7 Charges)>
-[I4+ ] <Ornate Shrine (6 Charges)>
-[I5+ ] <Ornate Shrine (5 Charges)>
-[I6+ ] <Ornate Shrine (4 Charges)>
-[I7+ ] <Ornate Shrine (3 Charges)>
-[I8+ ] <Ornate Shrine (2 Charges)>
-[I9+ ] <Ornate Shrine (1 Charge)>
-[J0+ ] <Sacred Shrine (10 Charges)>
-[J1+ ] <Sacred Shrine (9 Charges)>
-[J2+ ] <Sacred Shrine (8 Charges)>
-[J3+ ] <Sacred Shrine (7 Charges)>
-[J4+ ] <Sacred Shrine (6 Charges)>
-[J5+ ] <Sacred Shrine (5 Charges)>
-[J6+ ] <Sacred Shrine (4 Charges)>
-[J7+ ] <Sacred Shrine (3 Charges)>
-[J8+ ] <Sacred Shrine (2 Charges)>
-[J9+ ] <Sacred Shrine (1 Charge)>
-[K0+ ] <Shimmering Shrine (10 Charges)>
-[K1+ ] <Shimmering Shrine (9 Charges)>
-[K2+ ] <Shimmering Shrine (8 Charges)>
-[K3+ ] <Shimmering Shrine (7 Charges)>
-[K4+ ] <Shimmering Shrine (6 Charges)>
-[K5+ ] <Shimmering Shrine (5 Charges)>
-[K6+ ] <Shimmering Shrine (4 Charges)>
-[K7+ ] <Shimmering Shrine (3 Charges)>
-[K8+ ] <Shimmering Shrine (2 Charges)>
-[K9+ ] <Shimmering Shrine (1 Charge)>
-[L0+ ] <Mysterious Shrine (10 Charges)>
-[L1+ ] <Mysterious Shrine (9 Charges)>
-[L2+ ] <Mysterious Shrine (8 Charges)>
-[L3+ ] <Mysterious Shrine (7 Charges)>
-[L4+ ] <Mysterious Shrine (6 Charges)>
-[L5+ ] <Mysterious Shrine (5 Charges)>
-[L6+ ] <Mysterious Shrine (4 Charges)>
-[L7+ ] <Mysterious Shrine (3 Charges)>
-[L8+ ] <Mysterious Shrine (2 Charges)>
-[L9+ ] <Mysterious Shrine (1 Charge)>
-[M0+ ] <Spiritual Shrine (10 Charges)>
-[M1+ ] <Spiritual Shrine (9 Charges)>
-[M2+ ] <Spiritual Shrine (8 Charges)>
-[M3+ ] <Spiritual Shrine (7 Charges)>
-[M4+ ] <Spiritual Shrine (6 Charges)>
-[M5+ ] <Spiritual Shrine (5 Charges)>
-[M6+ ] <Spiritual Shrine (4 Charges)>
-[M7+ ] <Spiritual Shrine (3 Charges)>
-[M8+ ] <Spiritual Shrine (2 Charges)>
-[M9+ ] <Spiritual Shrine (1 Charge)>
-[N0+ ] <Magical Shrine (10 Charges)>
-[N1+ ] <Magical Shrine (9 Charges)>
-[N2+ ] <Magical Shrine (8 Charges)>
-[N3+ ] <Magical Shrine (7 Charges)>
-[N4+ ] <Magical Shrine (6 Charges)>
-[N5+ ] <Magical Shrine (5 Charges)>
-[N6+ ] <Magical Shrine (4 Charges)>
-[N7+ ] <Magical Shrine (3 Charges)>
-[N8+ ] <Magical Shrine (2 Charges)>
-[N9+ ] <Magical Shrine (1 Charge)>
-[O0+ ] <Enchanted Shrine (10 Charges)>
-[O1+ ] <Enchanted Shrine (9 Charges)>
-[O2+ ] <Enchanted Shrine (8 Charges)>
-[O3+ ] <Enchanted Shrine (7 Charges)>
-[O4+ ] <Enchanted Shrine (6 Charges)>
-[O5+ ] <Enchanted Shrine (5 Charges)>
-[O6+ ] <Enchanted Shrine (4 Charges)>
-[O7+ ] <Enchanted Shrine (3 Charges)>
-[O8+ ] <Enchanted Shrine (2 Charges)>
-[O9+ ] <Enchanted Shrine (1 Charge)>
-[P0+ ] <Divine Shrine (10 Charges)>
-[P1+ ] <Divine Shrine (9 Charges)>
-[P2+ ] <Divine Shrine (8 Charges)>
-[P3+ ] <Divine Shrine (7 Charges)>
-[P4+ ] <Divine Shrine (6 Charges)>
-[P5+ ] <Divine Shrine (5 Charges)>
-[P6+ ] <Divine Shrine (4 Charges)>
-[P7+ ] <Divine Shrine (3 Charges)>
-[P8+ ] <Divine Shrine (2 Charges)>
-[P9+ ] <Divine Shrine (1 Charge)>
-[Q0+ ] <Hidden Shrine (10 Charges)>
-[Q1+ ] <Hidden Shrine (9 Charges)>
-[Q2+ ] <Hidden Shrine (8 Charges)>
-[Q3+ ] <Hidden Shrine (7 Charges)>
-[Q4+ ] <Hidden Shrine (6 Charges)>
-[Q5+ ] <Hidden Shrine (5 Charges)>
-[Q6+ ] <Hidden Shrine (4 Charges)>
-[Q7+ ] <Hidden Shrine (3 Charges)>
-[Q8+ ] <Hidden Shrine (2 Charges)>
-[Q9+ ] <Hidden Shrine (1 Charge)>
-[R0+ ] <Stone Shrine (10 Charges)>
-[R1+ ] <Stone Shrine (9 Charges)>
-[R2+ ] <Stone Shrine (8 Charges)>
-[R3+ ] <Stone Shrine (7 Charges)>
-[R4+ ] <Stone Shrine (6 Charges)>
-[R5+ ] <Stone Shrine (5 Charges)>
-[R6+ ] <Stone Shrine (4 Charges)>
-[R7+ ] <Stone Shrine (3 Charges)>
-[R8+ ] <Stone Shrine (2 Charges)>
-[R9+ ] <Stone Shrine (1 Charge)>
-[S0+ ] <Religious Shrine (10 Charges)>
-[S1+ ] <Religious Shrine (9 Charges)>
-[S2+ ] <Religious Shrine (8 Charges)>
-[S3+ ] <Religious Shrine (7 Charges)>
-[S4+ ] <Religious Shrine (6 Charges)>
-[S5+ ] <Religious Shrine (5 Charges)>
-[S6+ ] <Religious Shrine (4 Charges)>
-[S7+ ] <Religious Shrine (3 Charges)>
-[S8+ ] <Religious Shrine (2 Charges)>
-[S9+ ] <Religious Shrine (1 Charge)>
-[T0+ ] <Cryptic Shrine (10 Charges)>
-[T1+ ] <Cryptic Shrine (9 Charges)>
-[T2+ ] <Cryptic Shrine (8 Charges)>
-[T3+ ] <Cryptic Shrine (7 Charges)>
-[T4+ ] <Cryptic Shrine (6 Charges)>
-[T5+ ] <Cryptic Shrine (5 Charges)>
-[T6+ ] <Cryptic Shrine (4 Charges)>
-[T7+ ] <Cryptic Shrine (3 Charges)>
-[T8+ ] <Cryptic Shrine (2 Charges)>
-[T9+ ] <Cryptic Shrine (1 Charge)>
-[&01 ] <Mystic Orb>
-[&02 ] <Mystic Orb>
-[&03 ] <Mystic Orb>
-[&04 ] <Mystic Orb>
-[&45 ] <Mystic Orb>
-[&11 ] <Mystic Orb>
-[&17 ] <Mystic Orb>
-[&18 ] <Mystic Orb>
-[&19 ] <Mystic Orb>
-[&20 ] <Mystic Orb>
-[&05 ] <Mystic Orb>
-[&06 ] <Mystic Orb>
-[&07 ] <Mystic Orb>
-[&08 ] <Mystic Orb>
-[&09 ] <Mystic Orb>
-[&10 ] <Mystic Orb>
-[&12 ] <Mystic Orb>
-[&13 ] <Mystic Orb>
-[&14 ] <Mystic Orb>
-[&15 ] <Mystic Orb>
-[&16 ] <Mystic Orb>
-[&41 ] <Mystic Orb>
-[&42 ] <Mystic Orb>
-[&43 ] <Mystic Orb>
-[&44 ] <Mystic Orb>
-[&21 ] <Mystic Orb>
-[&22 ] <Mystic Orb>
-[&23 ] <Mystic Orb>
-[&24 ] <Mystic Orb>
-[&25 ] <Mystic Orb>
-[&26 ] <Mystic Orb>
-[&27 ] <Mystic Orb>
-[&28 ] <Mystic Orb>
-[&29 ] <Mystic Orb>
-[&30 ] <Mystic Orb>
-[&46 ] <Mystic Orb>
-[&47 ] <Mystic Orb>
-[&48 ] <Mystic Orb>
-[&49 ] <Mystic Orb>
-[&50 ] <Mystic Orb>
-[&51 ] <Mystic Orb>
-[&52 ] <Mystic Orb>
-[&53 ] <Mystic Orb>
-[&54 ] <Mystic Orb>
-[&55 ] <Mystic Orb>
-[&31 ] <Mystic Orb>
-[&32 ] <Mystic Orb>
-[&33 ] <Mystic Orb>
-[&34 ] <Mystic Orb>
-[&35 ] <Mystic Orb>
-[&36 ] <Mystic Orb>
-[&37 ] <Mystic Orb>
-[&38 ] <Mystic Orb>
-[&39 ] <Mystic Orb>
-[&40 ] <Mystic Orb>
-[&56 ] <Mystic Orb>
-[&57 ] <Mystic Orb>
-[&58 ] <Mystic Orb>
-[&59 ] <Mystic Orb>
-[&60 ] <Mystic Orb>
-[&61 ] <Mystic Orb>
-[&62 ] <Mystic Orb>
-[&63 ] <Mystic Orb>
-[&64 ] <Mystic Orb>
-[&65 ] <Mystic Orb>
+[A0+ ] <Creepy Shrine (10)>
+[A1+ ] <Creepy Shrine (9)>
+[A2+ ] <Creepy Shrine (8)>
+[A3+ ] <Creepy Shrine (7)>
+[A4+ ] <Creepy Shrine (6)>
+[A5+ ] <Creepy Shrine (5)>
+[A6+ ] <Creepy Shrine (4)>
+[A7+ ] <Creepy Shrine (3)>
+[A8+ ] <Creepy Shrine (2)>
+[A9+ ] <Creepy Shrine (1)>
+[B0+ ] <Abandoned Shrine (10)>
+[B1+ ] <Abandoned Shrine (9)>
+[B2+ ] <Abandoned Shrine (8)>
+[B3+ ] <Abandoned Shrine (7)>
+[B4+ ] <Abandoned Shrine (6)>
+[B5+ ] <Abandoned Shrine (5)>
+[B6+ ] <Abandoned Shrine (4)>
+[B7+ ] <Abandoned Shrine (3)>
+[B8+ ] <Abandoned Shrine (2)>
+[B9+ ] <Abandoned Shrine (1)>
+[C0+ ] <Quiet Shrine (10)>
+[C1+ ] <Quiet Shrine (9)>
+[C2+ ] <Quiet Shrine (8)>
+[C3+ ] <Quiet Shrine (7)>
+[C4+ ] <Quiet Shrine (6)>
+[C5+ ] <Quiet Shrine (5)>
+[C6+ ] <Quiet Shrine (4)>
+[C7+ ] <Quiet Shrine (3)>
+[C8+ ] <Quiet Shrine (2)>
+[C9+ ] <Quiet Shrine (1)>
+[D0+ ] <Eerie Shrine (10)>
+[D1+ ] <Eerie Shrine (9)>
+[D2+ ] <Eerie Shrine (8)>
+[D3+ ] <Eerie Shrine (7)>
+[D4+ ] <Eerie Shrine (6)>
+[D5+ ] <Eerie Shrine (5)>
+[D6+ ] <Eerie Shrine (4)>
+[D7+ ] <Eerie Shrine (3)>
+[D8+ ] <Eerie Shrine (2)>
+[D9+ ] <Eerie Shrine (1)>
+[E0+ ] <Weird Shrine (10)>
+[E1+ ] <Weird Shrine (9)>
+[E2+ ] <Weird Shrine (8)>
+[E3+ ] <Weird Shrine (7)>
+[E4+ ] <Weird Shrine (6)>
+[E5+ ] <Weird Shrine (5)>
+[E6+ ] <Weird Shrine (4)>
+[E7+ ] <Weird Shrine (3)>
+[E8+ ] <Weird Shrine (2)>
+[E9+ ] <Weird Shrine (1)>
+[F0+ ] <Gloomy Shrine (10)>
+[F1+ ] <Gloomy Shrine (9)>
+[F2+ ] <Gloomy Shrine (8)>
+[F3+ ] <Gloomy Shrine (7)>
+[F4+ ] <Gloomy Shrine (6)>
+[F5+ ] <Gloomy Shrine (5)>
+[F6+ ] <Gloomy Shrine (4)>
+[F7+ ] <Gloomy Shrine (3)>
+[F8+ ] <Gloomy Shrine (2)>
+[F9+ ] <Gloomy Shrine (1)>
+[G0+ ] <Tainted Shrine (10)>
+[G1+ ] <Tainted Shrine (9)>
+[G2+ ] <Tainted Shrine (8)>
+[G3+ ] <Tainted Shrine (7)>
+[G4+ ] <Tainted Shrine (6)>
+[G5+ ] <Tainted Shrine (5)>
+[G6+ ] <Tainted Shrine (4)>
+[G7+ ] <Tainted Shrine (3)>
+[G8+ ] <Tainted Shrine (2)>
+[G9+ ] <Tainted Shrine (1)>
+[H0+ ] <Fascinating Shrine (10)>
+[H1+ ] <Fascinating Shrine (9)>
+[H2+ ] <Fascinating Shrine (8)>
+[H3+ ] <Fascinating Shrine (7)>
+[H4+ ] <Fascinating Shrine (6)>
+[H5+ ] <Fascinating Shrine (5)>
+[H6+ ] <Fascinating Shrine (4)>
+[H7+ ] <Fascinating Shrine (3)>
+[H8+ ] <Fascinating Shrine (2)>
+[H9+ ] <Fascinating Shrine (1)>
+[I0+ ] <Ornate Shrine (10)>
+[I1+ ] <Ornate Shrine (9)>
+[I2+ ] <Ornate Shrine (8)>
+[I3+ ] <Ornate Shrine (7)>
+[I4+ ] <Ornate Shrine (6)>
+[I5+ ] <Ornate Shrine (5)>
+[I6+ ] <Ornate Shrine (4)>
+[I7+ ] <Ornate Shrine (3)>
+[I8+ ] <Ornate Shrine (2)>
+[I9+ ] <Ornate Shrine (1)>
+[J0+ ] <Sacred Shrine (10)>
+[J1+ ] <Sacred Shrine (9)>
+[J2+ ] <Sacred Shrine (8)>
+[J3+ ] <Sacred Shrine (7)>
+[J4+ ] <Sacred Shrine (6)>
+[J5+ ] <Sacred Shrine (5)>
+[J6+ ] <Sacred Shrine (4)>
+[J7+ ] <Sacred Shrine (3)>
+[J8+ ] <Sacred Shrine (2)>
+[J9+ ] <Sacred Shrine (1)>
+[K0+ ] <Shimmering Shrine (10)>
+[K1+ ] <Shimmering Shrine (9)>
+[K2+ ] <Shimmering Shrine (8)>
+[K3+ ] <Shimmering Shrine (7)>
+[K4+ ] <Shimmering Shrine (6)>
+[K5+ ] <Shimmering Shrine (5)>
+[K6+ ] <Shimmering Shrine (4)>
+[K7+ ] <Shimmering Shrine (3)>
+[K8+ ] <Shimmering Shrine (2)>
+[K9+ ] <Shimmering Shrine (1)>
+[M0+ ] <Spiritual Shrine (10)>
+[M1+ ] <Spiritual Shrine (9)>
+[M2+ ] <Spiritual Shrine (8)>
+[M3+ ] <Spiritual Shrine (7)>
+[M4+ ] <Spiritual Shrine (6)>
+[M5+ ] <Spiritual Shrine (5)>
+[M6+ ] <Spiritual Shrine (4)>
+[M7+ ] <Spiritual Shrine (3)>
+[M8+ ] <Spiritual Shrine (2)>
+[M9+ ] <Spiritual Shrine (1)>
+[N0+ ] <Magical Shrine (10)>
+[N1+ ] <Magical Shrine (9)>
+[N2+ ] <Magical Shrine (8)>
+[N3+ ] <Magical Shrine (7)>
+[N4+ ] <Magical Shrine (6)>
+[N5+ ] <Magical Shrine (5)>
+[N6+ ] <Magical Shrine (4)>
+[N7+ ] <Magical Shrine (3)>
+[N8+ ] <Magical Shrine (2)>
+[N9+ ] <Magical Shrine (1)>
+[O0+ ] <Enchanted Shrine (10)>
+[O1+ ] <Enchanted Shrine (9)>
+[O2+ ] <Enchanted Shrine (8)>
+[O3+ ] <Enchanted Shrine (7)>
+[O4+ ] <Enchanted Shrine (6)>
+[O5+ ] <Enchanted Shrine (5)>
+[O6+ ] <Enchanted Shrine (4)>
+[O7+ ] <Enchanted Shrine (3)>
+[O8+ ] <Enchanted Shrine (2)>
+[O9+ ] <Enchanted Shrine (1)>
+[Q0+ ] <Hidden Shrine (10)>
+[Q1+ ] <Hidden Shrine (9)>
+[Q2+ ] <Hidden Shrine (8)>
+[Q3+ ] <Hidden Shrine (7)>
+[Q4+ ] <Hidden Shrine (6)>
+[Q5+ ] <Hidden Shrine (5)>
+[Q6+ ] <Hidden Shrine (4)>
+[Q7+ ] <Hidden Shrine (3)>
+[Q8+ ] <Hidden Shrine (2)>
+[Q9+ ] <Hidden Shrine (1)>
+[R0+ ] <Stone Shrine (10)>
+[R1+ ] <Stone Shrine (9)>
+[R2+ ] <Stone Shrine (8)>
+[R3+ ] <Stone Shrine (7)>
+[R4+ ] <Stone Shrine (6)>
+[R5+ ] <Stone Shrine (5)>
+[R6+ ] <Stone Shrine (4)>
+[R7+ ] <Stone Shrine (3)>
+[R8+ ] <Stone Shrine (2)>
+[R9+ ] <Stone Shrine (1)>
 [qmu ] <Amulet (Sacred)>
 [qin ] <Ring (Sacred)>
 [qqv ] <Arrow Quiver (Sacred)>
@@ -2174,128 +2071,63 @@
 [zkx ] <Greater Signet of Gold>
 [zky ] <Greater Signet of Learning>
 [zkr ] <Greater Signet of Experience>
-[01- ] <Pearl of Wisdom>
-[02- ] <Pearl of Wisdom>
-[03- ] <Pearl of Wisdom>
-[04- ] <Pearl of Wisdom>
-[05- ] <Pearl of Wisdom>
-[06- ] <Pearl of Wisdom>
-[07- ] <Pearl of Wisdom>
-[08- ] <Pearl of Wisdom>
-[09- ] <Pearl of Wisdom>
-[10- ] <Pearl of Wisdom>
-[11- ] <Pearl of Wisdom>
-[12- ] <Pearl of Wisdom>
-[13- ] <Pearl of Wisdom>
-[14- ] <Pearl of Wisdom>
-[15- ] <Pearl of Wisdom>
-[16- ] <Pearl of Wisdom>
-[17- ] <Pearl of Wisdom>
-[18- ] <Pearl of Wisdom>
-[19- ] <Pearl of Wisdom>
-[20- ] <Pearl of Wisdom>
-[21- ] <Pearl of Wisdom>
-[22- ] <Pearl of Wisdom>
-[23- ] <Pearl of Wisdom>
-[24- ] <Pearl of Wisdom>
-[25- ] <Pearl of Wisdom>
-[26- ] <Pearl of Wisdom>
-[27- ] <Pearl of Wisdom>
-[28- ] <Pearl of Wisdom>
-[29- ] <Pearl of Wisdom>
-[30- ] <Pearl of Wisdom>
-[31- ] <Pearl of Wisdom>
-[32- ] <Pearl of Wisdom>
-[33- ] <Pearl of Wisdom>
-[34- ] <Pearl of Wisdom>
-[35- ] <Pearl of Wisdom>
-[36- ] <Pearl of Wisdom>
-[37- ] <Pearl of Wisdom>
-[38- ] <Pearl of Wisdom>
-[39- ] <Pearl of Wisdom>
-[40- ] <Pearl of Wisdom>
-[41- ] <Pearl of Wisdom>
-[42- ] <Pearl of Wisdom>
-[43- ] <Pearl of Wisdom>
-[44- ] <Pearl of Wisdom>
-[45- ] <Pearl of Wisdom>
-[46- ] <Pearl of Wisdom>
-[47- ] <Pearl of Wisdom>
-[48- ] <Pearl of Wisdom>
-[49- ] <Pearl of Wisdom>
-[50- ] <Pearl of Wisdom>
 [zka ] <Signet of Gold>
 [zkb ] <Signet of Experience>
 [zkc ] <Signet of Learning>
 [zkd ] <Greater Signet of Gold>
 [zke ] <Greater Signet of Learning>
 [zkf ] <Greater Signet of Experience>
-[01+ ] <Mystic Orb>
-[02+ ] <Mystic Orb>
-[03+ ] <Mystic Orb>
-[04+ ] <Mystic Orb>
-[45+ ] <Mystic Orb>
-[11+ ] <Mystic Orb>
-[17+ ] <Mystic Orb>
-[18+ ] <Mystic Orb>
-[19+ ] <Mystic Orb>
-[20+ ] <Mystic Orb>
-[05+ ] <Mystic Orb>
-[06+ ] <Mystic Orb>
-[07+ ] <Mystic Orb>
-[08+ ] <Mystic Orb>
-[09+ ] <Mystic Orb>
-[10+ ] <Mystic Orb>
-[12+ ] <Mystic Orb>
-[13+ ] <Mystic Orb>
-[14+ ] <Mystic Orb>
-[15+ ] <Mystic Orb>
-[16+ ] <Mystic Orb>
-[41+ ] <Mystic Orb>
-[42+ ] <Mystic Orb>
-[43+ ] <Mystic Orb>
-[44+ ] <Mystic Orb>
-[21+ ] <Mystic Orb>
-[22+ ] <Mystic Orb>
-[23+ ] <Mystic Orb>
-[24+ ] <Mystic Orb>
-[25+ ] <Mystic Orb>
-[26+ ] <Mystic Orb>
-[27+ ] <Mystic Orb>
-[28+ ] <Mystic Orb>
-[29+ ] <Mystic Orb>
-[30+ ] <Mystic Orb>
-[46+ ] <Mystic Orb>
-[47+ ] <Mystic Orb>
-[48+ ] <Mystic Orb>
-[49+ ] <Mystic Orb>
-[50+ ] <Mystic Orb>
-[51+ ] <Mystic Orb>
-[52+ ] <Mystic Orb>
-[53+ ] <Mystic Orb>
-[54+ ] <Mystic Orb>
-[55+ ] <Mystic Orb>
-[31+ ] <Mystic Orb>
-[32+ ] <Mystic Orb>
-[33+ ] <Mystic Orb>
-[34+ ] <Mystic Orb>
-[35+ ] <Mystic Orb>
-[36+ ] <Mystic Orb>
-[37+ ] <Mystic Orb>
-[38+ ] <Mystic Orb>
-[39+ ] <Mystic Orb>
-[40+ ] <Mystic Orb>
-[56+ ] <Mystic Orb>
-[57+ ] <Mystic Orb>
-[58+ ] <Mystic Orb>
-[59+ ] <Mystic Orb>
-[60+ ] <Mystic Orb>
-[61+ ] <Mystic Orb>
-[62+ ] <Mystic Orb>
-[63+ ] <Mystic Orb>
-[64+ ] <Mystic Orb>
-[65+ ] <Mystic Orb>
-[qul ] <Cube Reagent|Arcane Shards #1>
+[38+ ] <Cube Reagent|Mystic Orb>
+[61+ ] <Cube Reagent|Mystic Orb>
+[31+ ] <Cube Reagent|Mystic Orb>
+[51+ ] <Cube Reagent|Mystic Orb>
+[48+ ] <Cube Reagent|Mystic Orb>
+[25+ ] <Cube Reagent|Mystic Orb>
+[17+ ] <Cube Reagent|Mystic Orb>
+[20+ ] <Cube Reagent|Mystic Orb>
+[09+ ] <Cube Reagent|Mystic Orb>
+[14+ ] <Cube Reagent|Mystic Orb>
+[39+ ] <Cube Reagent|Mystic Orb>
+[60+ ] <Cube Reagent|Mystic Orb>
+[35+ ] <Cube Reagent|Mystic Orb>
+[50+ ] <Cube Reagent|Mystic Orb>
+[47+ ] <Cube Reagent|Mystic Orb>
+[03+ ] <Cube Reagent|Mystic Orb>
+[18+ ] <Cube Reagent|Mystic Orb>
+[24+ ] <Cube Reagent|Mystic Orb>
+[08+ ] <Cube Reagent|Mystic Orb>
+[12+ ] <Cube Reagent|Mystic Orb>
+[37+ ] <Cube Reagent|Mystic Orb>
+[40+ ] <Cube Reagent|Mystic Orb>
+[62+ ] <Cube Reagent|Mystic Orb>
+[52+ ] <Cube Reagent|Mystic Orb>
+[30+ ] <Cube Reagent|Mystic Orb>
+[04+ ] <Cube Reagent|Mystic Orb>
+[11+ ] <Cube Reagent|Mystic Orb>
+[23+ ] <Cube Reagent|Mystic Orb>
+[07+ ] <Cube Reagent|Mystic Orb>
+[13+ ] <Cube Reagent|Mystic Orb>
+[63+ ] <Cube Reagent|Mystic Orb>
+[33+ ] <Cube Reagent|Mystic Orb>
+[64+ ] <Cube Reagent|Mystic Orb>
+[27+ ] <Cube Reagent|Mystic Orb>
+[53+ ] <Cube Reagent|Mystic Orb>
+[02+ ] <Cube Reagent|Mystic Orb>
+[10+ ] <Cube Reagent|Mystic Orb>
+[22+ ] <Cube Reagent|Mystic Orb>
+[06+ ] <Cube Reagent|Mystic Orb>
+[15+ ] <Cube Reagent|Mystic Orb>
+[36+ ] <Cube Reagent|Mystic Orb>
+[32+ ] <Cube Reagent|Mystic Orb>
+[65+ ] <Cube Reagent|Mystic Orb>
+[26+ ] <Cube Reagent|Mystic Orb>
+[46+ ] <Cube Reagent|Mystic Orb>
+[01+ ] <Cube Reagent|Mystic Orb>
+[19+ ] <Cube Reagent|Mystic Orb>
+[21+ ] <Cube Reagent|Mystic Orb>
+[05+ ] <Cube Reagent|Mystic Orb>
+[16+ ] <Cube Reagent|Mystic Orb>
+[qul ] <Cube Reagent|Arcane Shards (1)>
 [quz ] <Boom!>
 [&66 ] <Mystic Orb|Kara's Trinket>
 [&67 ] <Mystic Orb|Monsterball>
@@ -2318,17 +2150,6 @@
 [&84 ] <Mystic Orb|The Demon Core>
 [&85 ] <Mystic Orb|Uldyssian's Spirit>
 [lok ] <Crystalline Flame Medallion>
-[99- ] <Pearl of Wisdom>
-[z1+ ] <Mystic Orb>
-[z2+ ] <Mystic Orb>
-[z3+ ] <Mystic Orb>
-[z4+ ] <Mystic Orb>
-[z5+ ] <Mystic Orb>
-[&a1 ] <Mystic Orb>
-[&a2 ] <Mystic Orb>
-[&a3 ] <Mystic Orb>
-[&a4 ] <Mystic Orb>
-[&a5 ] <Mystic Orb>
 [g$a ] <Chipped Onyx>
 [g$b ] <Flawed Onyx>
 [g$c ] <Onyx>
@@ -2363,22 +2184,21 @@
 [s@s ] <Assur's Bane>
 [t@t ] <Demonsbane>
 [u@v ] <for an upgrade!|See the documentation|You're not cool enough!|Poser!>
-[98- ] <Pearl of Wisdom>
 [b@b ] <Goodberry>
-[Âµ01 ] <Lord Aldric Jitan Trophy>
-[Âµ02 ] <Legacy of Blood Trophy>
-[Âµ03 ] <Judgement Day Trophy>
-[Âµ04 ] <Akarat Trophy>
-[Âµ05 ] <Kingdom of Shadow Trophy>
-[Âµ06 ] <Duncraig Trophy>
-[Âµ07 ] <Rathma Square Trophy>
-[Âµ08 ] <Cathedral of Vanity Trophy>
-[Âµ09 ] <Tran Athulua Trophy>
-[Âµ10 ] <Quov Tsin Trophy>
-[Âµ11 ] <Astrogha Trophy>
-[Âµ12 ] <Azmodan Trophy>
-[Âµ13 ] <MCS Trophy>
-[Âµ14 ] <Brother Laz Trophy>
+[µ01 ] <Lord Aldric Jitan Trophy>
+[µ02 ] <Legacy of Blood Trophy>
+[µ03 ] <Judgement Day Trophy>
+[µ04 ] <Akarat Trophy>
+[µ05 ] <Kingdom of Shadow Trophy>
+[µ06 ] <Duncraig Trophy>
+[µ07 ] <Rathma Square Trophy>
+[µ08 ] <Cathedral of Vanity Trophy>
+[µ09 ] <Tran Athulua Trophy>
+[µ10 ] <Quov Tsin Trophy>
+[µ11 ] <Astrogha Trophy>
+[µ12 ] <Azmodan Trophy>
+[µ13 ] <MCS Trophy>
+[µ14 ] <Brother Laz Trophy>
 [w@w ] <Cold Fusion Schematics>
 [x@x ] <The Glorious Book of Median>
 [r54 ] <Great Rune|Krys Rune>
@@ -2387,7 +2207,7 @@
 [zog ] <Life Pack>
 [zoh ] <Energy Pack>
 [c@c ] <Moon Symbol>
-[toa ] <(Only works in Diablo II 1.13 and up)|Right-click to reset Stat/Skill Points|Belladonna Extract>
+[toa ] <Belladonna Extract>
 [!@1 ] <Evil Eye of the Clawstorm>
 [!@2 ] <Evil Eye of the Landmass>
 [!@3 ] <Evil Eye of the Glowing Blob>
@@ -2399,17 +2219,16 @@
 [!@9 ] <Dogma of Terror>
 [!@A ] <Dogma of Destruction>
 [!@B ] <Signet of Skill>
-[!@c ] <Pearl of Wisdom>
-[6oÂµ ] <Cube Reagent|Oil of Luck>
-[2oÂµ ] <Cube Reagent|Oil of Disjunction>
-[4oÂµ ] <Cube Reagent|Oil of Enhancement>
-[5oÂµ ] <Cube Reagent|Oil of Renewal>
-[1oÂµ ] <Cube Reagent|Oil of Duplication>
-[7oÂµ ] <Cube Reagent|Oil of Craft>
-[8oÂµ ] <Cube Reagent|Oil of Absolution>
-[0oÂµ ] <Cube Reagent|Catalyst of Learning>
-[3oÂµ ] <Cube Reagent|Catalyst of Disenchantment>
-[9oÂµ ] <Cube Reagent|Catalyst of Destruction>
+[6oµ ] <Cube Reagent|Oil of Luck>
+[2oµ ] <Cube Reagent|Oil of Disjunction>
+[4oµ ] <Cube Reagent|Oil of Enhancement>
+[5oµ ] <Cube Reagent|Oil of Renewal>
+[1oµ ] <Cube Reagent|Oil of Duplication>
+[7oµ ] <Cube Reagent|Oil of Craft>
+[8oµ ] <Cube Reagent|Oil of Absolution>
+[0oµ ] <Cube Reagent|Catalyst of Learning>
+[3oµ ] <Cube Reagent|Catalyst of Disenchantment>
+[9oµ ] <Cube Reagent|Catalyst of Destruction>
 [u@+ ] <I Am Rich>
 [dog ] <Apple>
 [&86 ] <Mystic Orb|Orb of Annihilation>
@@ -2423,41 +2242,40 @@
 [&94 ] <Mystic Orb|Explorer's Globe>
 [&95 ] <Mystic Orb|The Perfect Sphere>
 [yq9 ] <Aerial's Skull>
-[96- ] <Pearl of Wisdom>
 [brx ] <Scroll of Kabraxis>
 [bxt ] <Kabraxis Trophy>
 [bxa ] <Soul of Kabraxis>
-[r99 ] <Unknown Skull>
+[r99 ] <Primal Rune|Runestone>
 [>.< ] <Character Orb>
-[r58 ] <Secret Rune|Earth Rune>
-[r59 ] <Secret Rune|Magic Rune>
-[r60 ] <Secret Rune|Poison Rune>
-[r61 ] <Secret Rune|Light Rune>
-[r62 ] <Secret Rune|Ice Rune>
-[r57 ] <Secret Rune|Fire Rune>
-[Kx1 ] <Earth Stone>
-[Kx2 ] <Magic Stone>
-[Kx3 ] <Poison Stone>
-[Kx4 ] <Light Stone>
-[Kx5 ] <Ice Stone>
-[Kx6 ] <Fire Stone>
+[r58 ] <Elemental Rune|Earth Rune>
+[r59 ] <Elemental Rune|Magic Rune>
+[r60 ] <Elemental Rune|Poison Rune>
+[r61 ] <Elemental Rune|Light Rune>
+[r62 ] <Elemental Rune|Ice Rune>
+[r57 ] <Elemental Rune|Fire Rune>
+[Kx1 ] <Earth Essence>
+[Kx2 ] <Magic Essence>
+[Kx3 ] <Venomous Essence>
+[Kx4 ] <Lightning Essence>
+[Kx5 ] <Icy Essence>
+[Kx6 ] <Fiery Essence>
 [r98 ] <(Can't be Unsocketed)|Legendary Rune|Kabraxis' Stone>
 [k.Z ] <Key of Damnation>
 [kZ8 ] <Sunless Crystal Bird>
-[x#x ] <Sunstone of the Elements>
+[x#x ] <Elemental Prism>
 [##. ] <Uldyssian's Sword>
 [##/ ] <Uldyssian's Trophy>
-[@## ] <Deity's Bow>
-[#X1 ] <Token of Suffering>
-[#X2 ] <Token of Pain>
-[#X3 ] <Token of Hatred>
-[#X4 ] <Token of Terror>
-[#X5 ] <Token of Destruction>
-[#X6 ] <Token of Lies>
+[@## ] <Cube Reagent|Deity's Bow>
+[#X1 ] <Cube Reagent (Secret)|Emblem of Suffering>
+[#X2 ] <Cube Reagent (Secret)|Emblem of Pain>
+[#X3 ] <Cube Reagent (Secret)|Emblem of Hatred>
+[#X4 ] <Cube Reagent (Secret)|Emblem of Terror>
+[#X5 ] <Cube Reagent (Secret)|Emblem of Destruction>
+[#X6 ] <Cube Reagent (Secret)|Emblem of Lies>
 [zk# ] <Large Signet of Learning>
 [#X7 ] <Level Challenge 0>
 [#X8 ] <Instructions|Level Challenge 0>
-[#X9 ] <Gift Box>
+[#X9 ] <Cube Reagent|Griswold's Treasure>
 [#X0 ] <Gem>
 [02^ ] <Custom Signet of Learning>
 [03^ ] <Custom Signet of Learning>
@@ -2483,25 +2301,25 @@
 [24^ ] <Custom Signet of Learning>
 [#1^ ] <Diablo's Essence>
 [#2^ ] <Pandora's Box>
-[#3^ ] <Cube Reagent|Arcane Shards #2>
-[#4^ ] <Cube Reagent|Arcane Shards #3>
-[#5^ ] <Cube Reagent|Arcane Shards #4>
+[#3^ ] <Cube Reagent|Arcane Shards (2)>
+[#4^ ] <Cube Reagent|Arcane Shards (3)>
+[#5^ ] <Cube Reagent|Arcane Shards (4)>
 [#Y^ ] <Creator's Hand|Congratulations!>
 [`^` ] <Trader's Chest>
-[r97 ] <Unknown Skull>
+[r97 ] <Primal Rune|Runestone>
 [`^# ] <Mystic Shard>
 [`|# ] <The Sleep>
-[Âµ99 ] <Learn to Read Trophy>
-[Âµ98 ] <Cleanup Trophy>
+[µ99 ] <Learn to Read Trophy>
+[µ98 ] <Cleanup Trophy>
 [||_ ] <Cube Reagent|Cursed Crystal>
 [||. ] <Cube Reagent|Blessed Crystal>
 [||` ] <Broken Crystal>
-[||l ] <Cube Reagent|Book of the Wise>
+[||l ] <Cube Reagent|Book of Cain>
 [||# ] <Book of Ultimative>
-[||* ] <Book>
+[||* ] <Cube Reagent|Ancient Book>
 [||; ] <>
 [|\\ ] <The Ancient Repositories>
-[|\# ] <Brachyceran's Token>
+[|\# ] <Xazax's Illusion>
 [*\+ ] <Signet of Gold>
 [\\1 ] <Great Rainbow Stone>
 [\\2 ] <Great Skull>
@@ -2510,10 +2328,9 @@
 [\\5 ] <Great Ruby>
 [lawl] <Soulkeeper|Congratulations!>
 [\\8 ] <Lucion's Soulstone>
-[Âµ15 ] <Triune Trophy>
+[µ15 ] <Triune Trophy>
 [\\7 ] <Tome of Possession>
 [\\6 ] <Mythic Cycle>
-[#X91] <Special Box>
 [voi1] <Scroll of Greed>
 [voi2] <Scroll of Sloth>
 [voi3] <Scroll of Envy>
@@ -2522,8 +2339,7 @@
 [voi6] <Scroll of Lust>
 [vor1] <Ring of Pride>
 [vor2] <Sigil of Deadly Sins>
-[6xÂµ ] <Cube Reagent|Blessed Oil of Luck>
-[voDX] <Enchanting Crystal>
+[voDX] <Cube Reagent|Enchanting Crystal>
 [voXX] <Rathma's Supremacy>
 [A0+S] <Creepy Vessel>
 [B0+S] <Abandoned Vessel>
@@ -2545,3 +2361,16 @@
 [Ysh2] <Necklace>
 [mnx1] <Custom Signet of Learning>
 [mnx2] <Signet of Skill>
+[hnrx] <Cube Reagent|Mark of Infusion>
+[ripx] <Wings of the Departed>
+[slc1] <Level Challenge I|Scroll of Athulua>
+[slc2] <Level Challenge II|Scroll of the Zakarum>
+[senn] <Ennead Challenge|Scroll of Kurast>
+[brc1] <Black Road Challenge|Scroll of Fear>
+[brc2] <Black Road Challenge|Scroll of Greed>
+[brc3] <Black Road Challenge|Scroll of Contrition>
+[brc4] <Black Road Challenge|Scroll of Knowledge>
+[brc5] <Black Road Challenge|Scroll of Blood>
+[brc6] <Black Road Challenge|Scroll of Completion>
+[smi1] <Minigame|Scroll of Witches>
+[smi2] <Minigame|Scroll of Mirrors>
