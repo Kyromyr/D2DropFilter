@@ -4,3 +4,4 @@ Debug
 *.db
 *.opendb
 *.log
+DropFilter.dll
