@@ -3,18 +3,19 @@ local f = io.open("items.txt", "rb");
 local gemTypes = {Amethyst=1, Topaz=1, Sapphire=1, Emerald=1, Ruby=1, Diamond=1, Skull=1, Onyx=1, Bloodstone=1, Turquoise=1, Amber=1, ["Rainbow Stone"]=1};
 local gemGrades = {Chipped=1,Flawed=2,[""]=3,Flawless=4,Perfect=5};
 
-local itemType, code, hex, name, rune, gemGrade, gemType;
+local itemType, code, hex, name, rune, pot, gemGrade, gemType;
 
 local readable = {};
 local output = {};
 
 for line in f:lines() do
-	code, name = line:match("%[.?(....)%] <(.*)>");
+	code, name = line:match"%[.?(....)%] <(.*)>";
 	if (code and name) then
 		hex = string.format("'%s'", code);
-		rune = tonumber(code:match("r(%d%d) "));
-		
-		gemGrade, gemType = name:match("^(%w+) (.+)$");
+		rune = tonumber(code:match"r(%d%d) ");
+		pot = tonumber(code:match"hp(%d) ");
+
+		gemGrade, gemType = name:match"^(%w+) (.+)$";
 		if (not gemGrade or not gemGrades[gemGrade]) then
 			gemGrade = "";
 			gemType = name;
@@ -24,8 +25,10 @@ for line in f:lines() do
 		if ((itemType ~= "misc" and name:match"%(%d%)$") -- Non-sacred equipment
 			or (rune and rune < 18) -- Runes below Ko
 			or (gemTypes[gemType] and gemGrade and gemGrade < 4) -- Gems below Flawless
-			or name == "Mystic Orb" -- Worse than trash
-			or (code:match("hp%d ") or code:match("mp%d ")) -- Health and mana potions
+			or (pot and pot < 4) -- Health potions below Greater
+			or code:match"mp%d " -- Mana potions
+			or code == "tsc " or code == "isc " or code == "key " or code == "tbk " or code == "ibk " -- TP/ID scrolls and tomes, keys
+			or code == "ey2 " or code == "ey3 " or code == "et1 " -- Elixirs of Experience, Greed & Concentration
 			) then
 			table.insert(readable, line);
 			table.insert(output, hex);

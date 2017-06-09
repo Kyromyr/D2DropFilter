@@ -1318,6 +1318,11 @@
 [w86 ] <Zombie Head (4)>
 [e16 ] <Zombie Head (5)>
 [e36 ] <Zombie Head (6)>
+[tbk ] <Tome of Town Portal>
+[ibk ] <Tome of Identify>
+[tsc ] <Scroll of Town Portal>
+[isc ] <Scroll of Identify>
+[key ] <Key>
 [gcv ] <Chipped Amethyst>
 [gfv ] <Flawed Amethyst>
 [gsv ] <Amethyst>
@@ -1339,8 +1344,6 @@
 [hp1 ] <Minor Healing Potion>
 [hp2 ] <Light Healing Potion>
 [hp3 ] <Healing Potion>
-[hp4 ] <Greater Healing Potion>
-[hp5 ] <Super Healing Potion>
 [mp1 ] <Minor Mana Potion>
 [mp2 ] <Light Mana Potion>
 [mp3 ] <Mana Potion>
@@ -1366,6 +1369,9 @@
 [r15 ] <Hel Rune>
 [r16 ] <Io Rune>
 [r17 ] <Lum Rune>
+[ey2 ] <Elixir of Experience>
+[ey3 ] <Elixir of Greed>
+[et1 ] <Elixir of Concentration>
 [yo1 ] <Chipped Rainbow Stone>
 [yo2 ] <Flawed Rainbow Stone>
 [yo3 ] <Rainbow Stone>
