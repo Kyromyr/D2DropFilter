@@ -23,8 +23,8 @@ for line in f:lines() do
 		gemGrade = gemGrades[gemGrade];
 		
 		if ((itemType ~= "misc" and name:match"%(%d%)$") -- Non-sacred equipment
-			or (rune and rune < 18) -- Runes below Ko
-			or (gemTypes[gemType] and gemGrade and gemGrade < 4) -- Gems below Flawless
+			or (rune and rune < 34) -- cLOD runes
+			or (gemTypes[gemType] and gemGrade and gemGrade < 6) -- All gems
 			or (pot and pot < 4) -- Health potions below Greater
 			or code:match"mp%d " -- Mana potions
 			or code == "tsc " or code == "isc " or code == "key " or code == "tbk " or code == "ibk " -- TP/ID scrolls and tomes, keys
