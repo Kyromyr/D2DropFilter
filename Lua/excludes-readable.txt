@@ -1327,32 +1327,26 @@
 [gfv ] <Flawed Amethyst>
 [gsv ] <Amethyst>
 [gzv ] <Flawless Amethyst>
-[gpv ] <Perfect Amethyst>
 [gcy ] <Chipped Topaz>
 [gfy ] <Flawed Topaz>
 [gsy ] <Topaz>
 [gly ] <Flawless Topaz>
-[gpy ] <Perfect Topaz>
 [gcb ] <Chipped Sapphire>
 [gfb ] <Flawed Sapphire>
 [gsb ] <Sapphire>
 [glb ] <Flawless Sapphire>
-[gpb ] <Perfect Sapphire>
 [gcg ] <Chipped Emerald>
 [gfg ] <Flawed Emerald>
 [gsg ] <Emerald>
 [glg ] <Flawless Emerald>
-[gpg ] <Perfect Emerald>
 [gcr ] <Chipped Ruby>
 [gfr ] <Flawed Ruby>
 [gsr ] <Ruby>
 [glr ] <Flawless Ruby>
-[gpr ] <Perfect Ruby>
 [gcw ] <Chipped Diamond>
 [gfw ] <Flawed Diamond>
 [gsw ] <Diamond>
 [glw ] <Flawless Diamond>
-[gpw ] <Perfect Diamond>
 [hp1 ] <Minor Healing Potion>
 [hp2 ] <Light Healing Potion>
 [hp3 ] <Healing Potion>
@@ -1365,7 +1359,6 @@
 [skf ] <Flawed Skull>
 [sku ] <Skull>
 [skl ] <Flawless Skull>
-[skz ] <Perfect Skull>
 [r01 ] <El Rune>
 [r02 ] <Eld Rune>
 [r03 ] <Tir Rune>
@@ -1406,24 +1399,19 @@
 [yo2 ] <Flawed Rainbow Stone>
 [yo3 ] <Rainbow Stone>
 [yo4 ] <Flawless Rainbow Stone>
-[yo5 ] <Perfect Rainbow Stone>
 [g$a ] <Chipped Onyx>
 [g$b ] <Flawed Onyx>
 [g$c ] <Onyx>
 [g$d ] <Flawless Onyx>
-[g$e ] <Perfect Onyx>
 [9$a ] <Chipped Bloodstone>
 [9$b ] <Flawed Bloodstone>
 [9$c ] <Bloodstone>
 [9$d ] <Flawless Bloodstone>
-[9$e ] <Perfect Bloodstone>
 [7$a ] <Chipped Turquoise>
 [7$b ] <Flawed Turquoise>
 [7$c ] <Turquoise>
 [7$d ] <Flawless Turquoise>
-[7$e ] <Perfect Turquoise>
 [5$a ] <Chipped Amber>
 [5$b ] <Flawed Amber>
 [5$c ] <Amber>
 [5$d ] <Flawless Amber>
-[5$e ] <Perfect Amber>
