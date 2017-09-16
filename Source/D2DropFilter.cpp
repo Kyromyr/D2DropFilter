@@ -30,7 +30,7 @@ BOOL __fastcall DROPFILTER_Main(D2UnitStrc* pItem)
 		return FALSE; // Magic rings and amulets
 	else if (dwQuality <= 4 && (dwCode == 'aqv ' || dwCode == 'cqv '))
 		return FALSE; // White and magic quivers
-	else if (excludes[pItem->dwClass])
+	else if (pItem->dwClass < sizeof(excludes) && excludes[pItem->dwClass])
 		return FALSE;
 
 	return TRUE;

@@ -1822,7 +1822,7 @@
 [amd ] <Amulet>
 [ame ] <Amulet>
 [amf ] <Amulet>
-[zen ] <Median XL 2017|- Welcome ->
+[zen ] <Median XL 2017|Welcome!>
 [ey2 ] <Elixir of Experience>
 [ey3 ] <Elixir of Greed>
 [ey4 ] <Elixir of Wealth>
@@ -2070,13 +2070,13 @@
 [zkq ] <Signet of Learning>
 [zkx ] <Greater Signet of Gold>
 [zky ] <Greater Signet of Learning>
-[zkr ] <Greater Signet of Experience>
+[zkr ] <Large Signet of Experience>
 [zka ] <Signet of Gold>
 [zkb ] <Signet of Experience>
 [zkc ] <Signet of Learning>
 [zkd ] <Greater Signet of Gold>
 [zke ] <Greater Signet of Learning>
-[zkf ] <Greater Signet of Experience>
+[zkf ] <Large Signet of Experience>
 [38+ ] <Cube Reagent|Mystic Orb>
 [61+ ] <Cube Reagent|Mystic Orb>
 [31+ ] <Cube Reagent|Mystic Orb>
@@ -2246,7 +2246,7 @@
 [bxt ] <Black Road Trophy>
 [bxa ] <Soul of Kabraxis>
 [r99 ] <Primal Rune|Runestone>
-[>.< ] <Character Orb>
+[>.< ] <FLYING POLAR BUFFALO ERROR>
 [r58 ] <Elemental Rune|Earth Rune>
 [r59 ] <Elemental Rune|Magic Rune>
 [r60 ] <Elemental Rune|Poison Rune>
@@ -2317,7 +2317,7 @@
 [||l ] <Cube Reagent|Book of Cain>
 [||# ] <Book of Ultimative>
 [||* ] <Cube Reagent|Ancient Book>
-[||; ] <>
+[||; ] <FLYING POLAR BUFFALO ERROR>
 [|\\ ] <The Ancient Repositories>
 [|\# ] <Xazax's Illusion>
 [*\+ ] <Signet of Gold>
@@ -2376,3 +2376,5 @@
 [smi2] <Minigame|Scroll of Mirrors>
 [sofd] <Cube Reagent|Seal of Darkness>
 [kvoi] <Demon Key>
+[zkg ] <Greater Signet of Experience>
+[ktor] <Edyrem Key>
