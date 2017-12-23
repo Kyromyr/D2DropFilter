@@ -30,7 +30,6 @@ for line in f:lines() do
 			or (pot and pot < 4) -- Health potions below Greater
 			or code:match"mp%d " -- Mana potions
 			or code == "tsc " or code == "isc " or code == "key " or code == "tbk " or code == "ibk " -- TP/ID scrolls and tomes, keys
-			or code == "ey2 " or code == "ey3 " or code == "et1 " -- Elixirs of Experience, Greed & Concentration
 			) then
 			table.insert(readable, line);
 			hide = 1;

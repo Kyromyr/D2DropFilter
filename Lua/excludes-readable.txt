@@ -1392,9 +1392,6 @@
 [r31 ] <Jah Rune>
 [r32 ] <Cham Rune>
 [r33 ] <Zod Rune>
-[ey2 ] <Elixir of Experience>
-[ey3 ] <Elixir of Greed>
-[et1 ] <Elixir of Concentration>
 [yo1 ] <Chipped Rainbow Stone>
 [yo2 ] <Flawed Rainbow Stone>
 [yo3 ] <Rainbow Stone>

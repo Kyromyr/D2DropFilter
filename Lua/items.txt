@@ -1,4 +1,4 @@
-{weapons}
+﻿{weapons}
 [gps ] <Rancid Gas Potion>
 [ops ] <Oil Potion>
 [gpm ] <Choking Gas Potion>
@@ -2378,3 +2378,7 @@
 [kvoi] <Demon Key>
 [zkg ] <Greater Signet of Experience>
 [ktor] <Edyrem Key>
+[dtm ] <Cube Reagent|Dark Tome>
+[ooc ] <Cube Reagent|Oil of Conjuration>
+[asx ] <Arcane Cluster>
+[kpac] <Cherry>
