@@ -1,4 +1,4 @@
-﻿{weapons}
+{weapons}
 [gps ] <Rancid Gas Potion>
 [ops ] <Oil Potion>
 [gpm ] <Choking Gas Potion>
@@ -922,6 +922,9 @@
 [70@ ] <Yew Wand (Sacred)>
 [v#X ] <Sacred Bow>
 [Ysh3] <Mystical Blade>
+[SM1 ] <Tyrannical Blade>
+[SM2 ] <Voidsworn Bow>
+[SM3 ] <Voidforged Staff>
 {armor}
 [crn ] <Crown>
 [fld ] <Field Plate>
@@ -2382,3 +2385,13 @@
 [ooc ] <Cube Reagent|Oil of Conjuration>
 [asx ] <Arcane Cluster>
 [kpac] <Cherry>
+[ktox] <Dimensional Key>
+[ebx ] <Vial of Elder Blood>
+[ebz ] <Amulet>
+[ktax] <Pulsating Worldstone Shard>
+[ktbx] <Pulsating Worldstone Shard>
+[ktcx] <Pulsating Worldstone Shard>
+[ktdx] <Pulsating Worldstone Shard>
+[ktex] <Pulsating Worldstone Shard>
+[ktfx] <Pulsating Worldstone Shard>
+[ktgx] <Pulsating Worldstone Crystal>
