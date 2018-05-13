@@ -10,17 +10,21 @@ BOOL __fastcall DROPFILTER_Main(D2UnitStrc* pItem)
 	if (GetAsyncKeyState(VK_CONTROL) & 0x8000)
 		return TRUE;
 
-	// Filled sockets
-	if (pItem->pInventory != NULL && pItem->pInventory->dwItemCount > 0)
+	DWORD dwQuality = pItem->pItemData->dwQuality;
+	if (dwQuality == 8 || dwQuality == 9) // CRAFTED, HONORIFIC
+		return TRUE;
+	else if (pItem->pInventory != NULL && pItem->pInventory->dwItemCount > 0) // Filled sockets
 		return TRUE;
 
-	DWORD dwQuality = pItem->pItemData->dwQuality;
-	// UNIQUE, SET, CRAFTED, HONORIFIC
-	if (dwQuality == 7 || dwQuality == 5 || dwQuality == 8 || dwQuality == 9)
+	if (*D2CLIENT_UseNotifierSettings == 1)
+		return pItem->pItemData->bEarLevel == 2; // Experimental, set by Drop Notifier
+
+	// UNIQUE, SET
+	if (dwQuality == 7 || dwQuality == 5)
 		return TRUE;
 
 	D2ItemsTXT* pItemTxt = D2COMMON_GetItemTxtRecord(pItem->dwClass);
-	if (pItemTxt == NULL){ return FALSE; }
+	if (pItemTxt == NULL) { return FALSE; }
 
 	DWORD dwCode = CODE32(pItemTxt->dwCode);
 

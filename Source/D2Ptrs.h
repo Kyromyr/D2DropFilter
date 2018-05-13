@@ -61,6 +61,8 @@ D2FUNC(D2CLIENT, GetItemName, BOOL, __stdcall, (D2UnitStrc*, wchar_t*, size_t), 
 D2PTR(D2CLIENT, D2CLIENT_6FB09419, 0x59419)		//return bad
 D2PTR(D2CLIENT, D2CLIENT_6FB09087, 0x59087)		//return good
 
+D2VAR(D2CLIENT, UseNotifierSettings, BYTE, 0xCDE20) // Set by D2Stats
+
 ///////////////////
 // D2COMMON.DLL ///
 ///////////////////
