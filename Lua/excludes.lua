@@ -10,29 +10,25 @@ local output = {};
 local class = 0;
 
 for line in f:lines() do
-	code, name = line:match"%[.?(....)%] <(.*)>";
+	code, name = line:match"%[%d+%:.?(....)%] <(.*)>";
 	if (code and name) then
 		hide = 0;
 		
-		rune = tonumber(code:match"r(%d%d) ");
-		pot = tonumber(code:match"hp(%d) ");
-
-		gemGrade, gemType = name:match"^(%w+) (.+)$";
-		if (not gemGrade or not gemGrades[gemGrade]) then
-			gemGrade = "";
-			gemType = name;
-		end
-		gemGrade = gemGrades[gemGrade];
+		local tmp = {
+			"^(Amethyst|Topaz|Sapphire|Emerald|Ruby|Diamond|Skull|Onyx|Bloodstone|Turquoise|Amber|Rainbow Stone)$",
+			"^Flawless",
+			"Minor",
+			"Light|Light",
+			"Mana Potion",
+			"^Key$",
+			"^(El|Eld|Tir|Nef|Eth|Ith|Tal|Ral|Ort|Thul|Amn|Sol|Shael|Dol|Hel|Io|Lum|Ko|Fal|Lem|Pul|Mal|Ist|Gul|Vex|Ohm|Lo|Sur|Ber|Jah|Cham|Zod) Rune$",
+		};
 		
-		if ((itemType ~= "misc" and name:match"%(%d%)$") -- Non-sacred equipment
-			or (rune and rune < 34) -- cLOD runes (Zod and below)
-			or (gemTypes[gemType] and gemGrade and gemGrade < 5) -- Gems below perfect
-			or (pot and pot < 4) -- Health potions below Greater
-			or code:match"mp%d " -- Mana potions
-			or code == "tsc " or code == "isc " or code == "key " or code == "tbk " or code == "ibk " -- TP/ID scrolls and tomes, keys
-			) then
-			table.insert(readable, line);
-			hide = 1;
+		for i = 1, #tmp do
+			if (name:match(tmp[i])) then
+				table.insert(readable, line);
+				hide = 1;
+			end
 		end
 		
 		table.insert(output, hide);
